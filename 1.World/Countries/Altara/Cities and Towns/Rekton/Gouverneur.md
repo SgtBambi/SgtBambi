@@ -1,0 +1,4 @@
+## Rolle und Aufgaben 
+Der Gouverneur von Rekton wird direkt von der Königin von Alatara ernannt und dient als ihr Vertreter in der Stadt. Die derzeitige Gouverneurin, **[[Lady Talia Varan]]**, ist bekannt für ihren scharfen Verstand und ihre unerschütterliche Loyalität gegenüber der Krone. Sie ist verantwortlich für die Überwachung der Steuereinnahmen, die Durchsetzung königlicher Dekrete und die Aufrechterhaltung der Stabilität in der Stadt. 
+## Befugnisse
+Als Leiterin der Regierung von Rekton hat die Gouverneurin erheblichen Einfluss. Sie leitet den **[Stadtrat](Stadtrat.md)** und hat das Recht, Entscheidungen zu widerrufen, die den Interessen der Krone widersprechen. Die Gouverneurin kontrolliert außerdem die **[Königsgarde](Königsgarde.md)**, die in Rekton stationiert ist, und sorgt so dafür, dass die Verteidigung der Stadt direkt mit der königlichen Autorität verbunden ist.

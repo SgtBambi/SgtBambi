@@ -1,0 +1,1 @@
+Der einzige elfische Fischermann in [[Rekton]] der für ein wenig Gold keine Fragen fragt.

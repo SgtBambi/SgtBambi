@@ -1,0 +1,203 @@
+{
+  "main": {
+    "id": "e6fcce36acae23ca",
+    "type": "split",
+    "children": [
+      {
+        "id": "f45499bb5597b32c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c1771396c76192af",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "1.World/Countries/Altara/Cities and Towns/Rekton/Places/Chapel of the Traitor(Dur)/Chapel of the Traitor.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "c1f620928008a0a2",
+    "type": "split",
+    "children": [
+      {
+        "id": "3da48ccff50f5a2b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "349be030c8d698e9",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "9b9ffe8cf3b42b4a",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "b6e9943bbc614835",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 413.5
+  },
+  "right": {
+    "id": "90978ab4c3b37cdf",
+    "type": "split",
+    "children": [
+      {
+        "id": "4bb170efa38c950a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "152e0bc97746b619",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "38d675d672fbf1f0",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "1.World/Countries/Altara/Cities and Towns/Rekton/Places/Chapel of the Traitor(Dur)/Chapel of the Traitor.md"
+              }
+            }
+          },
+          {
+            "id": "08d16fd2d9b76619",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "1.World/Countries/Altara/Cities and Towns/Rekton/Places/Chapel of the Traitor(Dur)/Chapel of the Traitor.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "077f79c3275a61a0",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "1.World/Countries/Altara/Cities and Towns/Rekton/Places/Chapel of the Traitor(Dur)/Chapel of the Traitor.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "4bd417a06a4b9d62",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 4
+      }
+    ],
+    "direction": "horizontal",
+    "width": 277.5,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Schnellauswahl öffnen": false,
+      "graph:Graphen-Ansicht öffnen": false,
+      "canvas:Neuen Canvas erstellen": false,
+      "daily-notes:Heutige Notiz öffnen": false,
+      "templates:Vorlage einfügen": false,
+      "command-palette:Befehlspalette öffnen": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "obsidian-leaflet-plugin:Open Leaflet Map": false
+    }
+  },
+  "active": "c1771396c76192af",
+  "lastOpenFiles": [
+    "z_Attachments/Chapel_of_the_Traitor.webp",
+    "1.World/Countries/Altara/Cities and Towns/Rekton/Places/Chapel of the Traitor(Dur)/Chapel of the Traitor.md",
+    "1.World/Countries/Altara/Cities and Towns/Rekton/Places/Chapel of the Traitor(Dur)",
+    "1.World/Countries/Altara/Cities and Towns/Rekton/Places/Dur.md",
+    "1.World/Countries/Altara/Cities and Towns/Rekton/Personen/Findrod Silberstrom.md",
+    "4.DM Screen/Namen.md",
+    "3.Session Journal/Session 1/Notes.md",
+    "1.World/Continent Map.md",
+    "1.World/Countries/Altara/Cities and Towns/Rekton/Personen/Lord Edrin Thorne.md",
+    "1.World/Countries/Altara/Cities and Towns/Rekton/Rekton.md",
+    "1.World/Countries/Altara/Cities and Towns/Rekton/Personen/Thorbald Eisenfaust.md",
+    "1.World/Countries/Altara/Cities and Towns/Rekton/Personen/Lady Talia Varan.md",
+    "3.Session Journal/Session 1/Planned Plot.md",
+    "z_Attachments/Altaran_Banner.webp",
+    "1.World/Countries/Altara/Cities and Towns/Rekton/Personen/Aric Blackwood.md",
+    "1.World/Countries/Altara/Cities and Towns/Rekton/Personen/Grogar Eisenfaust.md",
+    "1.World/Countries/Altara/Cities and Towns/Rekton/Places/Zum Tanzenden Goblin.md",
+    "5.Group/Drasil.md",
+    "5.Group/Nari Akida.md",
+    "5.Group/Thuum Skybreak.md",
+    "4.DM Screen/Names/Zwerge.md",
+    "2.Mechanics/Monsters/Young Kruthik.md",
+    "4.DM Screen/Names/Unbenannt",
+    "4.DM Screen/Names",
+    "2.Mechanics/Monsters/Adult Kruthik.md",
+    "2.Mechanics/Monsters/Ghoul.md",
+    "4.DM Screen/Prices.md",
+    "2.Mechanics/Monsters",
+    "1.World/Countries/Altara/Cities and Towns/Rekton/Personen/Thalion Blattspanner.md",
+    "1.World/Countries/Altara/Cities and Towns/Rekton/Places/Der Prächtige Schuss.md",
+    "1.World/Countries/Altara/Cities and Towns/Rekton/Personen/Marin Edelglanz.md",
+    "1.World/Countries/Altara/Cities and Towns/Rekton/Places",
+    "3.Session Journal/Session 1",
+    "5.Group",
+    "1.World/Countries/Altara/Personen",
+    "1.World/Gods, Demigods and Myths",
+    "1.World/Regions",
+    "z_Attachments/Tal_Dorron.jpg",
+    "z_Attachments/Rekton.jpg",
+    "Untitled.canvas"
+  ]
+}

@@ -1,0 +1,2 @@
+**Beschreibung:**  
+[[Marin Edelglanz]], die Juewlierinn des [[Sonnengold]] in [[Rekton]] ist ein eleganter Gnom mit einem wachen Verstand und einem scharfen Auge für Schönheit. Seine kleinen, geschickten Hände erschaffen wahre Meisterwerke aus Gold und Edelsteinen, und sein Geschäft ist in der ganzen Stadt für seine Qualität und Exklusivität bekannt. Marin ist charmant und höflich, stets darauf bedacht, die Wünsche seiner wohlhabenden Kunden zu erfüllen, und besitzt ein

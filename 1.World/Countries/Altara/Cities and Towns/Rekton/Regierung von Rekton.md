@@ -1,0 +1,1 @@
+DIe [[Regierung von Rekton]] wird von dem [[Stadtrat]] und dem [[Gouverneur]] der [[Königinn von Altara]] getsellt.

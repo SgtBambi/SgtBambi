@@ -1,0 +1,649 @@
+{
+  "mapMarkers": [
+    {
+      "id": "Continent Map ",
+      "lastAccessed": 1724941120948,
+      "markers": [
+        {
+          "id": "ID_693919c87b79",
+          "type": "Capitol",
+          "loc": [
+            -131.84375,
+            76.4375
+          ],
+          "link": "Ebou Dar",
+          "layer": "%5B%5BTal_Dorron.jpg%5D%5D%20",
+          "mutable": true,
+          "command": false,
+          "percent": [
+            0.1492919921875,
+            0.4291090317331164
+          ],
+          "description": "",
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_c9dbd86ad95b",
+          "type": "Capitol",
+          "loc": [
+            -131.5625,
+            76.25
+          ],
+          "layer": "%5B%5BTal_Dorron.jpg%5D%5D%20",
+          "mutable": true,
+          "command": false,
+          "percent": [
+            0.14892578125,
+            0.42819365337672904
+          ],
+          "description": null,
+          "minZoom": 0,
+          "maxZoom": 0,
+          "tooltip": "always"
+        },
+        {
+          "id": "ID_ca0a8a4a69b8",
+          "type": "Region",
+          "loc": [
+            -112.17578125,
+            82.1875
+          ],
+          "link": "Altara",
+          "layer": "%5B%5BTal_Dorron.jpg%5D%5D%20",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": "",
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_e9091acb0a29",
+          "type": "Capitol",
+          "loc": [
+            -134.09375,
+            76.8125
+          ],
+          "link": "Ebou Dar",
+          "layer": "%5B%5BTal_Dorron.jpg%5D%5D%20",
+          "mutable": true,
+          "command": false,
+          "percent": [
+            0.1500244140625,
+            0.4364320585842148
+          ],
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_18884819c9a8",
+          "type": "Town",
+          "loc": [
+            -116.35000038146973,
+            90.95624923706055
+          ],
+          "link": "Rekton",
+          "layer": "%5B%5BTal_Dorron.jpg%5D%5D%20",
+          "mutable": true,
+          "command": false,
+          "percent": [
+            0.17764892429113388,
+            0.37868185640836366
+          ],
+          "description": "",
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_bb0ab8da0b3a",
+          "type": "Town",
+          "loc": [
+            -103.0625,
+            102.96875
+          ],
+          "link": "Ionin Spring",
+          "layer": "%5B%5BTal_Dorron.jpg%5D%5D%20",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_a9dae828f958",
+          "type": "Region",
+          "loc": [
+            -127.875,
+            78.21875
+          ],
+          "link": "Eldar",
+          "layer": "%5B%5BTal_Dorron.jpg%5D%5D%20",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_6928c95bca09",
+          "type": "Region",
+          "loc": [
+            -107.25,
+            110.40625
+          ],
+          "link": "Ionin",
+          "layer": "%5B%5BTal_Dorron.jpg%5D%5D%20",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": "",
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_781898590ab9",
+          "type": "Region",
+          "loc": [
+            -115.71875,
+            92.23750114440918
+          ],
+          "link": "Lake Ultor",
+          "layer": "%5B%5BTal_Dorron.jpg%5D%5D%20",
+          "mutable": true,
+          "command": false,
+          "percent": [
+            0.18015136942267418,
+            0.3766273393002441
+          ],
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_28f99879a93a",
+          "type": "Region",
+          "loc": [
+            -230.587890625,
+            215.71875
+          ],
+          "link": "The Scorth",
+          "layer": "%5B%5BTal_Dorron.jpg%5D%5D%20",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_1bb97b8af9f9",
+          "type": "City",
+          "loc": [
+            -133.75,
+            108.125
+          ],
+          "link": "Bandar Eban",
+          "layer": "%5B%5BTal_Dorron.jpg%5D%5D%20",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_e89bd93b8b88",
+          "type": "Region",
+          "loc": [
+            -118.375,
+            57.59375
+          ],
+          "link": "Runnien",
+          "layer": "%5B%5BTal_Dorron.jpg%5D%5D%20",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_cbd8496a8bd8",
+          "type": "Town",
+          "loc": [
+            -118.24072265625,
+            63.2421875
+          ],
+          "link": "Runnien Crossing",
+          "layer": "%5B%5BTal_Dorron.jpg%5D%5D%20",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": "",
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_6ab95beae9ea",
+          "type": "City",
+          "loc": [
+            -89.125,
+            71.9375
+          ],
+          "link": "Jurador",
+          "layer": "%5B%5BTal_Dorron.jpg%5D%5D%20",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_8bb96a7b38fa",
+          "type": "Town",
+          "loc": [
+            -99.5625,
+            78.1875
+          ],
+          "link": "Malden",
+          "layer": "%5B%5BTal_Dorron.jpg%5D%5D%20",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_ba980ae858e9",
+          "type": "City",
+          "loc": [
+            -153.875,
+            101.9375
+          ],
+          "link": "Bandar Tehar",
+          "layer": "%5B%5BTal_Dorron.jpg%5D%5D%20",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_bacbd98b298a",
+          "type": "Region",
+          "loc": [
+            -101.08281230926514,
+            89.12187576293945
+          ],
+          "link": "Umber River",
+          "layer": "%5B%5BTal_Dorron.jpg%5D%5D%20",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_894a4a7a78f8",
+          "type": "Region",
+          "loc": [
+            -99.79999923706055,
+            81.23749923706055
+          ],
+          "link": "Lake Lysindor",
+          "layer": "%5B%5BTal_Dorron.jpg%5D%5D%20",
+          "mutable": true,
+          "command": false,
+          "percent": [
+            0.15866699069738388,
+            0.32481692184559985
+          ],
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        }
+      ],
+      "overlays": [],
+      "shapes": [],
+      "files": [
+        "1.World/Continent Map.md"
+      ]
+    },
+    {
+      "id": "RektonMap",
+      "lastAccessed": 1725304227751,
+      "markers": [
+        {
+          "id": "ID_889909eb496b",
+          "type": "PointOfInterest",
+          "loc": [
+            -171.1500015258789,
+            156.75
+          ],
+          "link": "Marktplatz",
+          "layer": "%5B%5BRekton.jpg%5D%5D%20",
+          "mutable": true,
+          "command": false,
+          "percent": [
+            0.408203125,
+            0.594270838631524
+          ],
+          "description": "",
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "always"
+        },
+        {
+          "id": "ID_6978d9096829",
+          "type": "PointOfInterest",
+          "loc": [
+            -102.04999542236328,
+            233.25
+          ],
+          "link": "Tempel des Lethanders",
+          "layer": "%5B%5BRekton.jpg%5D%5D%20",
+          "mutable": true,
+          "command": false,
+          "percent": [
+            0.607421875,
+            0.35434026188320583
+          ],
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "always"
+        },
+        {
+          "id": "ID_88f988cacb6b",
+          "type": "PointOfInterest",
+          "loc": [
+            -105.0250015258789,
+            165.14999771118164
+          ],
+          "link": "Die Weiße Rose",
+          "layer": "%5B%5BRekton.jpg%5D%5D%20",
+          "mutable": true,
+          "command": false,
+          "percent": [
+            0.4300781190395355,
+            0.36467014418707955
+          ],
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "always"
+        },
+        {
+          "id": "ID_28692bdb8939",
+          "type": "PointOfInterest",
+          "loc": [
+            -172.99999237060547,
+            277.3000030517578
+          ],
+          "link": "Zum Tanzenden Goblin",
+          "layer": "%5B%5BRekton.jpg%5D%5D%20",
+          "mutable": true,
+          "command": false,
+          "percent": [
+            0.7221354246139526,
+            0.6006944179534912
+          ],
+          "description": "",
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "always"
+        },
+        {
+          "id": "ID_8889ca691a48",
+          "type": "PointOfInterest",
+          "loc": [
+            -167.20312690734863,
+            100.63749694824219
+          ],
+          "link": "Stadtwache",
+          "layer": "%5B%5BRekton.jpg%5D%5D%20",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "always"
+        },
+        {
+          "id": "ID_fa89a98aea58",
+          "type": "PointOfInterest",
+          "loc": [
+            -218.98906230926514,
+            96.15625
+          ],
+          "link": "Schmiede zum Sturmhammer",
+          "layer": "%5B%5BRekton.jpg%5D%5D%20",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "always"
+        },
+        {
+          "id": "ID_69ea8a39597b",
+          "type": "PointOfInterest",
+          "loc": [
+            -211.30156230926514,
+            192.46875
+          ],
+          "link": "Zum Amaranth",
+          "layer": "%5B%5BRekton.jpg%5D%5D%20",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "always"
+        },
+        {
+          "id": "ID_5a6929caa9eb",
+          "type": "PointOfInterest",
+          "loc": [
+            -54.35000228881836,
+            296.75
+          ],
+          "link": "Burg Rekton",
+          "layer": "%5B%5BRekton.jpg%5D%5D%20",
+          "mutable": true,
+          "command": false,
+          "percent": [
+            0.7727864583333334,
+            0.18871528572506374
+          ],
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_da99a84a2aca",
+          "type": "PointOfInterest",
+          "loc": [
+            -87.95624923706055,
+            285.9375
+          ],
+          "layer": "%5B%5BRekton.jpg%5D%5D%20",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": "Thorne Manner",
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        }
+      ],
+      "overlays": [],
+      "shapes": [],
+      "files": [
+        "1.World/Countries/Altara/Cities and Towns/Rekton/Rekton.md"
+      ]
+    }
+  ],
+  "defaultMarker": {
+    "type": "default",
+    "iconName": "map-marker",
+    "color": "#dddddd",
+    "transform": {
+      "size": 6,
+      "x": 0,
+      "y": -2
+    },
+    "isImage": false
+  },
+  "markerIcons": [
+    {
+      "type": "PointOfInterest",
+      "iconName": "map-pin",
+      "color": "#ff0000",
+      "alpha": 1,
+      "layer": false,
+      "transform": {
+        "size": 6,
+        "x": 0,
+        "y": -2
+      },
+      "isImage": false,
+      "tags": [],
+      "minZoom": null,
+      "maxZoom": null
+    },
+    {
+      "type": "Town",
+      "iconName": "home",
+      "color": "#ff0000",
+      "alpha": 1,
+      "layer": false,
+      "transform": {
+        "size": 6,
+        "x": 0,
+        "y": -2
+      },
+      "isImage": false,
+      "tags": [],
+      "minZoom": null,
+      "maxZoom": null
+    },
+    {
+      "type": "City",
+      "iconName": "city",
+      "color": "#000000",
+      "alpha": 1,
+      "layer": false,
+      "transform": {
+        "size": 6,
+        "x": 0,
+        "y": -2
+      },
+      "isImage": false,
+      "tags": [],
+      "minZoom": null,
+      "maxZoom": null
+    },
+    {
+      "type": "Capitol",
+      "iconName": "city",
+      "color": "#ff0000",
+      "alpha": 1,
+      "layer": false,
+      "transform": {
+        "size": 6,
+        "x": 0,
+        "y": -2
+      },
+      "isImage": false,
+      "tags": [],
+      "minZoom": null,
+      "maxZoom": null
+    },
+    {
+      "type": "Village",
+      "iconName": "home",
+      "color": "#000000",
+      "alpha": 1,
+      "layer": false,
+      "transform": {
+        "size": 6,
+        "x": 0,
+        "y": -2
+      },
+      "isImage": false,
+      "tags": [],
+      "minZoom": null,
+      "maxZoom": null
+    },
+    {
+      "type": "Region",
+      "iconName": "info-circle",
+      "color": "#000000",
+      "alpha": 1,
+      "layer": false,
+      "transform": {
+        "size": 6,
+        "x": 0,
+        "y": -2
+      },
+      "isImage": false,
+      "tags": [],
+      "minZoom": null,
+      "maxZoom": null
+    }
+  ],
+  "color": "#dddddd",
+  "lat": 39.983334,
+  "long": -82.98333,
+  "notePreview": false,
+  "layerMarkers": true,
+  "previousVersion": "6.0.5",
+  "version": {
+    "major": 6,
+    "minor": 0,
+    "patch": 5
+  },
+  "warnedAboutMapMarker": false,
+  "copyOnClick": false,
+  "displayMarkerTooltips": "hover",
+  "displayOverlayTooltips": true,
+  "configDirectory": null,
+  "mapViewEnabled": true,
+  "mapViewParameters": {},
+  "enableDraw": true,
+  "defaultUnitType": "imperial",
+  "defaultTile": "https://{s}.basemaps.cartocdn.com/rastertiles/voyager/{z}/{x}/{y}.png",
+  "defaultTileDark": "https://{s}.basemaps.cartocdn.com/rastertiles/voyager/{z}/{x}/{y}.png",
+  "defaultAttribution": "&copy; <a href=\"https://www.openstreetmap.org/copyright\">OpenStreetMap</a> contributors &copy; <a href=\"https://carto.com/attributions\">CARTO</a>",
+  "defaultTileSubdomains": "a,b,c,d"
+}
