@@ -1,8 +1,186 @@
 {
   "mapMarkers": [
     {
+      "id": "RektonMap",
+      "lastAccessed": 1725304227751,
+      "markers": [
+        {
+          "id": "ID_889909eb496b",
+          "type": "PointOfInterest",
+          "loc": [
+            -171.1500015258789,
+            156.75
+          ],
+          "link": "Marktplatz",
+          "layer": "%5B%5BRekton.jpg%5D%5D%20",
+          "mutable": true,
+          "command": false,
+          "percent": [
+            0.408203125,
+            0.594270838631524
+          ],
+          "description": "",
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "always"
+        },
+        {
+          "id": "ID_6978d9096829",
+          "type": "PointOfInterest",
+          "loc": [
+            -102.04999542236328,
+            233.25
+          ],
+          "link": "Tempel des Lethanders",
+          "layer": "%5B%5BRekton.jpg%5D%5D%20",
+          "mutable": true,
+          "command": false,
+          "percent": [
+            0.607421875,
+            0.35434026188320583
+          ],
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "always"
+        },
+        {
+          "id": "ID_88f988cacb6b",
+          "type": "PointOfInterest",
+          "loc": [
+            -105.0250015258789,
+            165.14999771118164
+          ],
+          "link": "Die Weiße Rose",
+          "layer": "%5B%5BRekton.jpg%5D%5D%20",
+          "mutable": true,
+          "command": false,
+          "percent": [
+            0.4300781190395355,
+            0.36467014418707955
+          ],
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "always"
+        },
+        {
+          "id": "ID_28692bdb8939",
+          "type": "PointOfInterest",
+          "loc": [
+            -172.99999237060547,
+            277.3000030517578
+          ],
+          "link": "Zum Tanzenden Goblin",
+          "layer": "%5B%5BRekton.jpg%5D%5D%20",
+          "mutable": true,
+          "command": false,
+          "percent": [
+            0.7221354246139526,
+            0.6006944179534912
+          ],
+          "description": "",
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "always"
+        },
+        {
+          "id": "ID_8889ca691a48",
+          "type": "PointOfInterest",
+          "loc": [
+            -167.20312690734863,
+            100.63749694824219
+          ],
+          "link": "Stadtwache",
+          "layer": "%5B%5BRekton.jpg%5D%5D%20",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "always"
+        },
+        {
+          "id": "ID_fa89a98aea58",
+          "type": "PointOfInterest",
+          "loc": [
+            -218.98906230926514,
+            96.15625
+          ],
+          "link": "Schmiede zum Sturmhammer",
+          "layer": "%5B%5BRekton.jpg%5D%5D%20",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "always"
+        },
+        {
+          "id": "ID_69ea8a39597b",
+          "type": "PointOfInterest",
+          "loc": [
+            -211.30156230926514,
+            192.46875
+          ],
+          "link": "Zum Amaranth",
+          "layer": "%5B%5BRekton.jpg%5D%5D%20",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "always"
+        },
+        {
+          "id": "ID_5a6929caa9eb",
+          "type": "PointOfInterest",
+          "loc": [
+            -54.35000228881836,
+            296.75
+          ],
+          "link": "Burg Rekton",
+          "layer": "%5B%5BRekton.jpg%5D%5D%20",
+          "mutable": true,
+          "command": false,
+          "percent": [
+            0.7727864583333334,
+            0.18871528572506374
+          ],
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_da99a84a2aca",
+          "type": "PointOfInterest",
+          "loc": [
+            -87.95624923706055,
+            285.9375
+          ],
+          "layer": "%5B%5BRekton.jpg%5D%5D%20",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": "Thorne Manner",
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        }
+      ],
+      "overlays": [],
+      "shapes": [],
+      "files": [
+        "1.World/Countries/Altara/Cities and Towns/Rekton/Rekton.md"
+      ]
+    },
+    {
       "id": "Continent Map ",
-      "lastAccessed": 1724941120948,
+      "lastAccessed": 1725964229583,
       "markers": [
         {
           "id": "ID_693919c87b79",
@@ -326,6 +504,40 @@
           "minZoom": null,
           "maxZoom": null,
           "tooltip": "hover"
+        },
+        {
+          "id": "ID_291b8ada2bca",
+          "type": "Region",
+          "loc": [
+            -136.41562461853027,
+            10.40625
+          ],
+          "link": "The Cerulian Sea",
+          "layer": "%5B%5BTal_Dorron.jpg%5D%5D%20",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_49cbbbda095a",
+          "type": "Region",
+          "loc": [
+            -132.46562385559082,
+            59.256248474121094
+          ],
+          "link": "The Ember Veil",
+          "layer": "%5B%5BTal_Dorron.jpg%5D%5D%20",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
         }
       ],
       "overlays": [],
@@ -335,154 +547,134 @@
       ]
     },
     {
-      "id": "RektonMap",
-      "lastAccessed": 1725304227751,
+      "id": "Traitors Crypt",
+      "lastAccessed": 1725990080832,
       "markers": [
         {
-          "id": "ID_889909eb496b",
+          "id": "ID_2bca99abebeb",
+          "type": "Region",
+          "loc": [
+            -147.39531230926514,
+            72.84375
+          ],
+          "link": "Entrance Room",
+          "layer": "%5B%5BChapel_of_the_Traitor.webp%5D%5D%20",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_c8dbeb79bad8",
           "type": "PointOfInterest",
           "loc": [
-            -171.1500015258789,
-            156.75
+            -123.6500015258789,
+            71.5999984741211
           ],
-          "link": "Marktplatz",
-          "layer": "%5B%5BRekton.jpg%5D%5D%20",
+          "layer": "%5B%5BChapel_of_the_Traitor.webp%5D%5D%20",
           "mutable": true,
           "command": false,
           "percent": [
-            0.408203125,
-            0.594270838631524
+            0.5114285605294364,
+            0.7371088019426463
           ],
+          "description": "Offener Sarg",
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_ea8b28faf8fa",
+          "type": "Trap",
+          "loc": [
+            -145.4499969482422,
+            99.07499694824219
+          ],
+          "layer": "%5B%5BChapel_of_the_Traitor.webp%5D%5D%20",
+          "mutable": true,
+          "command": false,
+          "percent": [
+            0.7076785496303013,
+            0.8670640652652292
+          ],
+          "description": "Pressure Plate\nDC -12",
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_1a9988ebcbe9",
+          "type": "Trap",
+          "loc": [
+            -145.17499542236328,
+            109.07500457763672
+          ],
+          "layer": "%5B%5BChapel_of_the_Traitor.webp%5D%5D%20",
+          "mutable": true,
+          "command": false,
+          "percent": [
+            0.779107175554548,
+            0.8654247119067856
+          ],
+          "description": "Arrow Trap \nDEX Save DC 14 (2d4 + 2)",
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_7828892bf88a",
+          "type": "Trap",
+          "loc": [
+            -144.91562461853027,
+            42.71875
+          ],
+          "link": "Alcove (Chapel of the Traitor)",
+          "layer": "%5B%5BChapel_of_the_Traitor.webp%5D%5D%20",
+          "mutable": true,
+          "command": false,
+          "percent": null,
           "description": "",
           "minZoom": null,
           "maxZoom": null,
-          "tooltip": "always"
+          "tooltip": "hover"
         },
         {
-          "id": "ID_6978d9096829",
-          "type": "PointOfInterest",
+          "id": "ID_dbb92bab180b",
+          "type": "Trap",
           "loc": [
-            -102.04999542236328,
-            233.25
+            -109.44999885559082,
+            88.55000305175781
           ],
-          "link": "Tempel des Lethanders",
-          "layer": "%5B%5BRekton.jpg%5D%5D%20",
+          "link": "Chest Trap Room (Chapell of the Traitor)",
+          "layer": "%5B%5BChapel_of_the_Traitor.webp%5D%5D%20",
           "mutable": true,
           "command": false,
           "percent": [
-            0.607421875,
-            0.35434026188320583
+            0.6325000217982701,
+            0.6524590095713313
           ],
-          "description": null,
+          "description": "Fire Trap - Chest Trigger\nVisible with Detect Magic\nDC -14 DEX (2d6 Fire Damage)",
           "minZoom": null,
           "maxZoom": null,
-          "tooltip": "always"
+          "tooltip": "hover"
         },
         {
-          "id": "ID_88f988cacb6b",
-          "type": "PointOfInterest",
+          "id": "ID_bb09e979dab8",
+          "type": "Trap",
           "loc": [
-            -105.0250015258789,
-            165.14999771118164
+            -113.5999984741211,
+            114.9749984741211
           ],
-          "link": "Die Weiße Rose",
-          "layer": "%5B%5BRekton.jpg%5D%5D%20",
+          "link": "Snaring Vines",
+          "layer": "%5B%5BChapel_of_the_Traitor.webp%5D%5D%20",
           "mutable": true,
           "command": false,
           "percent": [
-            0.4300781190395355,
-            0.36467014418707955
-          ],
-          "description": null,
-          "minZoom": null,
-          "maxZoom": null,
-          "tooltip": "always"
-        },
-        {
-          "id": "ID_28692bdb8939",
-          "type": "PointOfInterest",
-          "loc": [
-            -172.99999237060547,
-            277.3000030517578
-          ],
-          "link": "Zum Tanzenden Goblin",
-          "layer": "%5B%5BRekton.jpg%5D%5D%20",
-          "mutable": true,
-          "command": false,
-          "percent": [
-            0.7221354246139526,
-            0.6006944179534912
-          ],
-          "description": "",
-          "minZoom": null,
-          "maxZoom": null,
-          "tooltip": "always"
-        },
-        {
-          "id": "ID_8889ca691a48",
-          "type": "PointOfInterest",
-          "loc": [
-            -167.20312690734863,
-            100.63749694824219
-          ],
-          "link": "Stadtwache",
-          "layer": "%5B%5BRekton.jpg%5D%5D%20",
-          "mutable": true,
-          "command": false,
-          "percent": null,
-          "description": null,
-          "minZoom": null,
-          "maxZoom": null,
-          "tooltip": "always"
-        },
-        {
-          "id": "ID_fa89a98aea58",
-          "type": "PointOfInterest",
-          "loc": [
-            -218.98906230926514,
-            96.15625
-          ],
-          "link": "Schmiede zum Sturmhammer",
-          "layer": "%5B%5BRekton.jpg%5D%5D%20",
-          "mutable": true,
-          "command": false,
-          "percent": null,
-          "description": null,
-          "minZoom": null,
-          "maxZoom": null,
-          "tooltip": "always"
-        },
-        {
-          "id": "ID_69ea8a39597b",
-          "type": "PointOfInterest",
-          "loc": [
-            -211.30156230926514,
-            192.46875
-          ],
-          "link": "Zum Amaranth",
-          "layer": "%5B%5BRekton.jpg%5D%5D%20",
-          "mutable": true,
-          "command": false,
-          "percent": null,
-          "description": null,
-          "minZoom": null,
-          "maxZoom": null,
-          "tooltip": "always"
-        },
-        {
-          "id": "ID_5a6929caa9eb",
-          "type": "PointOfInterest",
-          "loc": [
-            -54.35000228881836,
-            296.75
-          ],
-          "link": "Burg Rekton",
-          "layer": "%5B%5BRekton.jpg%5D%5D%20",
-          "mutable": true,
-          "command": false,
-          "percent": [
-            0.7727864583333334,
-            0.18871528572506374
+            0.821249989100865,
+            0.6771982025282927
           ],
           "description": null,
           "minZoom": null,
@@ -490,17 +682,245 @@
           "tooltip": "hover"
         },
         {
-          "id": "ID_da99a84a2aca",
+          "id": "ID_5a5a9b4a1989",
+          "type": "Trap",
+          "loc": [
+            -125.95000457763672,
+            132.90000915527344
+          ],
+          "link": "Snaring Vines",
+          "layer": "%5B%5BChapel_of_the_Traitor.webp%5D%5D%20",
+          "mutable": true,
+          "command": false,
+          "percent": [
+            0.9492857796805245,
+            0.7508196994195929
+          ],
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_285aea99585a",
+          "type": "Trap",
+          "loc": [
+            -136.17500019073486,
+            111.63750076293945
+          ],
+          "link": "Undead Warrior of K'Rul",
+          "layer": "%5B%5BChapel_of_the_Traitor.webp%5D%5D%20",
+          "mutable": true,
+          "command": false,
+          "percent": [
+            0.7974107197352818,
+            0.8117734735662286
+          ],
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_f9aaa8e92a08",
+          "type": "Region",
+          "loc": [
+            -132.5999984741211,
+            128.89999389648438
+          ],
+          "link": "Chest Trap Room (Chapell of the Traitor)",
+          "layer": "%5B%5BChapel_of_the_Traitor.webp%5D%5D%20",
+          "mutable": true,
+          "command": false,
+          "percent": [
+            0.9207142421177456,
+            0.7904619879232256
+          ],
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_08c998e9fbd9",
           "type": "PointOfInterest",
           "loc": [
-            -87.95624923706055,
-            285.9375
+            -161.57500076293945,
+            30.82500457763672
           ],
-          "layer": "%5B%5BRekton.jpg%5D%5D%20",
+          "layer": "%5B%5BChapel_of_the_Traitor.webp%5D%5D%20",
+          "mutable": true,
+          "command": false,
+          "percent": [
+            0.22017860412597656,
+            0.963189274294721
+          ],
+          "description": "4 Silver peaces and a rotted  rotted Book.",
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_caea297aeb69",
+          "type": "Region",
+          "loc": [
+            -129.83906269073486,
+            21.378124237060547
+          ],
+          "link": "Kitchen (Chapel of the Traitor)",
+          "layer": "%5B%5BChapel_of_the_Traitor.webp%5D%5D%20",
           "mutable": true,
           "command": false,
           "percent": null,
-          "description": "Thorne Manner",
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_db4ba8188939",
+          "type": "PointOfInterest",
+          "loc": [
+            -105.375,
+            41.57500457763672
+          ],
+          "layer": "%5B%5BChapel_of_the_Traitor.webp%5D%5D%20",
+          "mutable": true,
+          "command": false,
+          "percent": [
+            0.29696431841169085,
+            0.6281669150521609
+          ],
+          "description": "Abstellkammer, verottetes Essen. \n\n2xd4 Weinflaschen haben den Verfallen unberührt überlebt.",
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_8bb9998bcbab",
+          "type": "Region",
+          "loc": [
+            -80.90624618530273,
+            21.725006103515625
+          ],
+          "link": "The Hall (Chapel of the Traitor)",
+          "layer": "%5B%5BChapel_of_the_Traitor.webp%5D%5D%20",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_eb0a2b89a958",
+          "type": "Region",
+          "loc": [
+            -39.59999084472656,
+            28.70001220703125
+          ],
+          "link": "Tomb of Heroes",
+          "layer": "%5B%5BChapel_of_the_Traitor.webp%5D%5D%20",
+          "mutable": true,
+          "command": false,
+          "percent": [
+            0.20500008719308035,
+            0.23606551919360097
+          ],
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_391aa909bbda",
+          "type": "Region",
+          "loc": [
+            -78.5,
+            120.07500457763672
+          ],
+          "link": "Necromancers Lab (Chapel of the Traitor)",
+          "layer": "%5B%5BChapel_of_the_Traitor.webp%5D%5D%20",
+          "mutable": true,
+          "command": false,
+          "percent": [
+            0.8576786041259765,
+            0.46795827123695977
+          ],
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_fae8a94af95a",
+          "type": "PointOfInterest",
+          "loc": [
+            -65.47812461853027,
+            102.33124542236328
+          ],
+          "layer": "%5B%5BChapel_of_the_Traitor.webp%5D%5D%20",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": "Scroll of Reanimate Dead\n20 gold ",
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_a9692978e93b",
+          "type": "Region",
+          "loc": [
+            -21.674999237060547,
+            120.16250228881836
+          ],
+          "link": "Sacrificial Chamber",
+          "layer": "%5B%5BChapel_of_the_Traitor.webp%5D%5D%20",
+          "mutable": true,
+          "command": false,
+          "percent": [
+            0.858303587777274,
+            0.12921012958009268
+          ],
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_c83919381a3b",
+          "type": "Region",
+          "loc": [
+            -87.30000019073486,
+            72.36874961853027
+          ],
+          "link": "Altar des K'Rul",
+          "layer": "%5B%5BChapel_of_the_Traitor.webp%5D%5D%20",
+          "mutable": true,
+          "command": false,
+          "percent": [
+            0.5169196401323591,
+            0.520417288767421
+          ],
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_f9bb7aca8a38",
+          "type": "PointOfInterest",
+          "loc": [
+            -112.11406230926514,
+            72.328125
+          ],
+          "layer": "%5B%5BChapel_of_the_Traitor.webp%5D%5D%20",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": "Versunstaltetete Statue von Engel Zariel\nDC 18 - Religion",
           "minZoom": null,
           "maxZoom": null,
           "tooltip": "hover"
@@ -509,14 +929,14 @@
       "overlays": [],
       "shapes": [],
       "files": [
-        "1.World/Countries/Altara/Cities and Towns/Rekton/Rekton.md"
+        "1.World/Countries/Altara/Cities and Towns/Rekton/Places/Chapel of the Traitor(Dur)/Chapel of the Traitor.md"
       ]
     }
   ],
   "defaultMarker": {
     "type": "default",
     "iconName": "map-marker",
-    "color": "#dddddd",
+    "color": "#ff0000",
     "transform": {
       "size": 6,
       "x": 0,
@@ -620,13 +1040,29 @@
       "tags": [],
       "minZoom": null,
       "maxZoom": null
+    },
+    {
+      "type": "Trap",
+      "iconName": "exclamation",
+      "color": "#ff0000",
+      "alpha": 1,
+      "layer": false,
+      "transform": {
+        "size": 6,
+        "x": 0,
+        "y": -2
+      },
+      "isImage": false,
+      "tags": [],
+      "minZoom": null,
+      "maxZoom": null
     }
   ],
   "color": "#dddddd",
   "lat": 39.983334,
   "long": -82.98333,
   "notePreview": false,
-  "layerMarkers": true,
+  "layerMarkers": false,
   "previousVersion": "6.0.5",
   "version": {
     "major": 6,

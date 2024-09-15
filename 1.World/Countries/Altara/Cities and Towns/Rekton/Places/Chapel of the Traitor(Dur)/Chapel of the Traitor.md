@@ -1,3 +1,9 @@
+---
+tags:
+  - Dungeon
+---
+--- 
+
 ```leaflet 
 id: Traitors Crypt
 image:[[Chapel_of_the_Traitor.webp]] 
@@ -12,3 +18,7 @@ unit: feet
 scale: 1 
 [[Note]] darkMode: true 
 ```
+
+- [[Entrance Room]] 
+- [[Alcove (Chapel of the Traitor)]]
+- [[Chest Trap Room (Chapell of the Traitor)]]

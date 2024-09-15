@@ -1,0 +1,1 @@
+https://www.dndbeyond.com/magic-items/9008989-amulet-of-shielding

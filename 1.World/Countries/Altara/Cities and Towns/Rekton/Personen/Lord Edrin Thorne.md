@@ -108,7 +108,7 @@ Lord Edrin Thorne ist ein alter, distinguiert wirkender Mann mit langen, grauen 
 
 ## Persönlichkeit
 
-Lord Thorne ist ein Meister der Täuschung und Manipulation. Nach außen hin gibt er sich als seniler Großvater und eifriger Sammler aus, doch hinter dieser Fassade verbirgt sich ein scharfsinniger und skrupelloser Politiker. Seine Leidenschaft für das Sammeln altertümlicher magischer und religiöser Objekte, insbesondere solcher, die mit [[Der Verräter|dem Veräter]] in Verbindung stehen, ist ein Mittel, um Macht und Wissen zu erlangen. Er ist äußerst geschickt darin, seine Verbindungen und sein Netzwerk von Spionen zu nutzen, um seine Ziele zu erreichen und die Politik von [[Rekton]] nach seinen Wünschen zu beeinflussen. Trotz seines vermeintlichen Alters zeigt er keinen Anflug von Schwäche und ist bereit, jedes Mittel einzusetzen, um seine Interessen zu wahren.
+Lord Thorne ist ein Meister der Täuschung und Manipulation. Nach außen hin gibt er sich als seniler Großvater und eifriger Sammler aus, doch hinter dieser Fassade verbirgt sich ein scharfsinniger und skrupelloser Politiker. Seine Leidenschaft für das Sammeln altertümlicher magischer und religiöser Objekte, insbesondere solcher, die mit [[K'Rul|dem Veräter]] in Verbindung stehen, ist ein Mittel, um Macht und Wissen zu erlangen. Er ist äußerst geschickt darin, seine Verbindungen und sein Netzwerk von Spionen zu nutzen, um seine Ziele zu erreichen und die Politik von [[Rekton]] nach seinen Wünschen zu beeinflussen. Trotz seines vermeintlichen Alters zeigt er keinen Anflug von Schwäche und ist bereit, jedes Mittel einzusetzen, um seine Interessen zu wahren.
 
 ## Hintergrund
 
@@ -120,4 +120,4 @@ Lord Thorne kontrolliert einen Großteil des Handels in der Stadt und hat Verbin
 
 ## Sammlung
 
-[[Lord Edrin Thorne]] ist ein Leidenschaftlicher Sammler altertümlicher magischer und religiöser Objekte. Insbesondere interessiert ihn alles was im Zusammenhang mit [[Der Verräter|dem Veräter]]. Im Zuge dieses Sammeldrangs ist er auf die Insel [[Dur]] aufmerksam geworden und sucht eine Gruppe die diese für ihn unter dem Radar der [[Gouverneur|Gouvaneurinn]] betritt.
+[[Lord Edrin Thorne]] ist ein Leidenschaftlicher Sammler altertümlicher magischer und religiöser Objekte. Insbesondere interessiert ihn alles was im Zusammenhang mit [[K'Rul|dem Veräter]]. Im Zuge dieses Sammeldrangs ist er auf die Insel [[Dur]] aufmerksam geworden und sucht eine Gruppe die diese für ihn unter dem Radar der [[Gouverneur|Gouvaneurinn]] betritt.

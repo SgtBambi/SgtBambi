@@ -1,5 +1,8 @@
-**Small Monstrosity, Unaligned**
-
+---
+tags:
+  - Medium
+  - Monstrosity
+  - Unaligned
 ---
 
 ### Armor Class
