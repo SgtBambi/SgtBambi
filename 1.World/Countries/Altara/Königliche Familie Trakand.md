@@ -4,7 +4,7 @@ Die königliche Familie Trakand ist edie Herscherfamilie von [[Altara]]. Ihre Mi
 ## Stammbaum
 - [[Königin Lysandra Trakand]]
   - Älteste Tochter von [[König Aldric Trakand]] und [[Königin Elara Trakand]]
-  - Mutter von [[Prinz Alistair Trakand]] und [[Prinzessin Elara Trakand (II)]]
+  - Mutter von [[Prinz Alistair Trakand]] und [[Prinzessin Elara Trakand]]
   - Schwester von [[Prinz Dorian Trakand]] und [[Prinzessin Sorelia Trakand]]
 - **[[Prinz Dorian Trakand]]**
   - Ältester Sohn von [[König Aldric Trakand]] und [[Königin Elara Trakand]]

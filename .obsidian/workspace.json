@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1.World/Countries/Altara/Cities and Towns/Rekton/Places/Chapel of the Traitor(Dur)/Sacrificial Chamber.md",
+                "file": "1.World/Countries/Altara/Cities and Towns/Rekton/Places/Hafen.md",
                 "mode": "source",
                 "source": false
               }
@@ -96,7 +96,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1.World/Countries/Altara/Cities and Towns/Rekton/Places/Chapel of the Traitor(Dur)/Sacrificial Chamber.md"
+                "file": "1.World/Countries/Altara/Cities and Towns/Rekton/Places/Hafen.md"
               }
             }
           },
@@ -106,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1.World/Countries/Altara/Cities and Towns/Rekton/Places/Chapel of the Traitor(Dur)/Sacrificial Chamber.md",
+                "file": "1.World/Countries/Altara/Cities and Towns/Rekton/Places/Hafen.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,7 +123,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "1.World/Countries/Altara/Cities and Towns/Rekton/Places/Chapel of the Traitor(Dur)/Sacrificial Chamber.md",
+                "file": "1.World/Countries/Altara/Cities and Towns/Rekton/Places/Hafen.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -147,47 +147,52 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "switcher:Schnellauswahl öffnen": false,
-      "graph:Graphen-Ansicht öffnen": false,
-      "canvas:Neuen Canvas erstellen": false,
-      "daily-notes:Heutige Notiz öffnen": false,
-      "templates:Vorlage einfügen": false,
-      "command-palette:Befehlspalette öffnen": false,
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
       "table-editor-obsidian:Advanced Tables Toolbar": false,
       "obsidian-leaflet-plugin:Open Leaflet Map": false
     }
   },
   "active": "16df2a27650ef8b1",
   "lastOpenFiles": [
-    "1.World/Countries/Altara/Cities and Towns/Rekton/Places/Chapel of the Traitor(Dur)/Kitchen (Chapel of the Traitor).md",
-    "1.World/Countries/Altara/Cities and Towns/Rekton/Places/Chapel of the Traitor(Dur)/The Hall (Chapel of the Traitor).md",
+    "1.World/Countries/Altara/Cities and Towns/Rekton/Places/Rekton Marktplatz.md",
+    "1.World/Countries/Altara/Cities and Towns/Rekton/Places/Hafen.md",
+    "1.World/Countries/Altara/Cities and Towns/Rekton/Personen/Finrod (Fischermann).md",
+    "4.DM Screen/Namen.md",
+    "1.World/Countries/Altara/Cities and Towns/Rekton/Personen/Evelyn Seidenstich.md",
+    "3.Session Journal/Session 2/Plot.md",
+    "1.World/Countries/Altara/Cities and Towns/Ebou Dar/Arkaneum von Schild und Stern.md",
+    "1.World/Countries/Altara/Cities and Towns/Ebou Dar/Tersainenpalast.md",
+    "1.World/Countries/Altara/Cities and Towns/Ebou Dar/Tempel der Mystra.md",
+    "1.World/Countries/Altara/Cities and Towns/Ebou Dar/Tempel des Tyrs.md",
+    "1.World/Countries/Altara/Cities and Towns/Ebou Dar/Tempel des Lethanders.md",
+    "1.World/Countries/Altara/Cities and Towns/Ebou Dar/Hallen des Wissens.md",
+    "1.World/Countries/Zeruliniasches Imperium/Terian Rebelion.md",
+    "1.World/Countries/Altara/Cities and Towns/Ebou Dar",
+    "1.World/Countries/Zeruliniasches Imperium/Zerulianisches Imperiums.md",
+    "1.World/Countries/Altara/Personen/Königin Lysandra Trakand.md",
+    "1.World/Countries/Altara/Königsgarde.md",
+    "1.World/Countries/Altara/Königliche Familie Trakand.md",
+    "1.World/Gods, Demigods and Myths/Terian Sturmfaust.md",
     "1.World/Countries/Altara/Cities and Towns/Rekton/Places/Chapel of the Traitor(Dur)/Chapel of the Traitor.md",
-    "1.World/Countries/Altara/Cities and Towns/Rekton/Places/Chapel of the Traitor(Dur)/Altar des K'Rul.md",
-    "1.World/Countries/Altara/Cities and Towns/Rekton/Places/Chapel of the Traitor(Dur)/Sacrificial Chamber.md",
-    "2.Mechanics/Krankheiten/Sewer Plague.md",
-    "2.Mechanics/Krankheiten",
-    "1.World/Countries/Altara/Cities and Towns/Rekton/Places/Chapel of the Traitor(Dur)/Necromancers Lab (Chapel of the Traitor).md",
-    "2.Mechanics/Monsters/Mummy.md",
-    "1.World/Countries/Altara/Cities and Towns/Rekton/Gouverneur.md",
-    "1.World/Countries/Altara/Cities and Towns/Rekton/Places/Chapel of the Traitor(Dur)/Alcove (Chapel of the Traitor).md",
-    "1.World/Countries/Altara/Cities and Towns/Rekton/Places/Chapel of the Traitor(Dur)/Chapel of the Traitor(Dur).md",
-    "1.World/Countries/Altara/Cities and Towns/Rekton/Places/Chapel of the Traitor(Dur)/Tomb of Heroes.md",
-    "2.Mechanics/Monsters/Gargoyle.md",
-    "2.Mechanics/Monsters/Snaring Vines.md",
-    "1.World/Countries/Altara/Cities and Towns/Rekton/Places/Chapel of the Traitor(Dur)/Chest Trap Room (Chapell of the Traitor).md",
-    "1.World/Countries/Altara/Cities and Towns/Rekton/Places/Chapel of the Traitor(Dur)/Entrance Room.md",
-    "1.World/Countries/Altara/Cities and Towns/Rekton/Places/Chapel of the Traitor(Dur)/Tumb of Heros (Chapel of the Traitor).md",
-    "2.Mechanics/Magic Items/Das Auge von K'Rul.md",
-    "1.World/Countries/Altara/Cities and Towns/Rekton/Places/Burg Rekton.md",
-    "2.Mechanics/Monsters/Undead Warrior of K'Rul.md",
-    "z_Attachments/Warrior_of_K'Rul.jpg",
-    "Warrior_of_K'Rul.md",
-    "2.Mechanics/Monsters/Ghast.md",
+    "5.Group/Nuriel Silberschmied.md",
+    "3.Session Journal/Session 1/Notes.md",
+    "3.Session Journal/Session 2",
+    "3.Session Journal/Untitled.md",
+    "3.Session Journal/Session 1/Planned Plot.md",
+    "1.World/Countries/Altara/Cities and Towns/Rekton/Places/Chapel of the Traitor(Dur)/Das Grimoire des Ewigen Hungers.md",
+    "1.World/Countries/Altara/Cities and Towns/Rekton/Places/Chapel of the Traitor(Dur)/Scroll I of K'Rul.md",
+    "z_Attachments/Tomb.jpg",
+    "1.World/Countries/Altara/Cities and Towns/Rekton/Places/Dur.md",
+    "6. Tokens/token_Kruthik.png",
+    "6. Tokens",
     "z_Attachments/Chapel_of_the_Traitor.webp",
-    "z_Templates/CharackterBogen Vorlage.md",
-    "2.Mechanics/Monsters/Ghoul.md",
-    "2.Mechanics/Monsters/Young Kruthik.md",
-    "2.Mechanics/Monsters/Adult Kruthik.md",
+    "2.Mechanics/Krankheiten",
+    "z_Attachments/Warrior_of_K'Rul.jpg",
     "2.Mechanics/Misc",
     "2.Mechanics/Magic Items",
     "1.World/Countries/Altara/Cities and Towns/Rekton/Places/Chapel of the Traitor(Dur)",
@@ -195,9 +200,6 @@
     "4.DM Screen/Names/Unbenannt",
     "4.DM Screen/Names",
     "2.Mechanics/Monsters",
-    "1.World/Countries/Altara/Cities and Towns/Rekton/Places",
-    "3.Session Journal/Session 1",
-    "5.Group",
     "z_Attachments/Tal_Dorron.jpg",
     "z_Attachments/Rekton.jpg",
     "Untitled.canvas"

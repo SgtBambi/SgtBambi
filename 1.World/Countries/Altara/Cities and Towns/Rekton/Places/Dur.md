@@ -35,7 +35,7 @@ Das Wasser um die Insel herum ist ungewöhnlich still, fast unnatürlich glatt, 
 
 Als ihr euch dem seichten Ufer von Dur nähert, fällt euer Blick auf etwas Unnatürliches, das sich vom grauen Kiesstrand abhebt. Zwischen den glatten, kalten Steinen liegt ein Skelett, bleich und unheimlich, als hätte es sich dort zum Sterben hingelegt. Keine Spur von Fleisch, kein verwesendes Gewebe, nur blanke Knochen, die stumm in die Wolken starren.
 
-Die zerrissenen Überreste einer einst prächtigen Lederweste kleben an den Rippen, zerfetzt, als hätte etwas mit scharfen Klauen oder Zähnen gnadenlos zugegriffen. Eine gebrochene Klinge liegt neben der rechten Hand, halb im Kies begraben, nutzlos. Aber es ist die linke Hand, die eure Aufmerksamkeit fesselt. Sie umklammert eine Münze – groß, glatt und weiß wie polierter Marmor, beinahe unpassend rein inmitten dieser Szene des Verfalls.
+Die zerrissenen Überreste einer einst prächtigen Lederweste kleben an den Rippen, zerfetzt, als hätte etwas mit scharfen Klauen oder Zähnen gnadenlos zugegriffen. Eine gebrochene Klinge liegt neben der rechten Hand, halb im Kies begraben, nutzlos. Aber es ist die linke Hand, die eure Aufmerksamkeit fesselt. Sie umklammert eine Münze – groß, glatt und weiß wie polierter Marmor, beinahe unpassend rein.
 
 In das kühle, steinerne Material ist ein Symbol eingelassen, tief in schwarzem Obsidian, so scharf und präzise, dass es in dieser Scene fremd wirkt.
 

@@ -8,4 +8,4 @@ Der Stadtrat ist für die lokale Verwaltung jenseits der königlichen Anordnunge
 
 ## Einfluss
 
-Obwohl der **[Gouverneur](Gouverneur)** die höchste Autorität besitzt, ist die kollektive Macht des Stadtrats nicht zu unterschätzen. Die Adelshäuser und Kaufmannsgilden kontrollieren einen Großteil des Reichtums der Stadt, und ihre Unterstützung ist entscheidend für die Aufrechterhaltung von Ordnung und Wohlstand.
+Obwohl der **[Gouverneur](Gouverneur.md)** die höchste Autorität besitzt, ist die kollektive Macht des Stadtrats nicht zu unterschätzen. Die Adelshäuser und Kaufmannsgilden kontrollieren einen Großteil des Reichtums der Stadt, und ihre Unterstützung ist entscheidend für die Aufrechterhaltung von Ordnung und Wohlstand.

@@ -4,9 +4,11 @@ tags:
 ---
 --- 
 
+Für die Anreise siehe [[Dur]].
+
 ```leaflet 
 id: Traitors Crypt
-image:[[Chapel_of_the_Traitor.webp]] 
+image:[[Tomb.jpg]]
 height: 700px
 width: 700px
 lat: 50 
@@ -18,7 +20,4 @@ unit: feet
 scale: 1 
 [[Note]] darkMode: true 
 ```
-
-- [[Entrance Room]] 
-- [[Alcove (Chapel of the Traitor)]]
-- [[Chest Trap Room (Chapell of the Traitor)]]
+]

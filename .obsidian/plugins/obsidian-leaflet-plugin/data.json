@@ -548,227 +548,234 @@
     },
     {
       "id": "Traitors Crypt",
-      "lastAccessed": 1725990080832,
+      "lastAccessed": 1726907191817,
       "markers": [
         {
-          "id": "ID_2bca99abebeb",
-          "type": "Region",
-          "loc": [
-            -147.39531230926514,
-            72.84375
-          ],
-          "link": "Entrance Room",
-          "layer": "%5B%5BChapel_of_the_Traitor.webp%5D%5D%20",
-          "mutable": true,
-          "command": false,
-          "percent": null,
-          "description": null,
-          "minZoom": null,
-          "maxZoom": null,
-          "tooltip": "hover"
-        },
-        {
-          "id": "ID_c8dbeb79bad8",
+          "id": "ID_69b9cb294b99",
           "type": "PointOfInterest",
           "loc": [
-            -123.6500015258789,
-            71.5999984741211
+            -104.25,
+            58.4375
           ],
-          "layer": "%5B%5BChapel_of_the_Traitor.webp%5D%5D%20",
+          "layer": "%5B%5BTomb.jpg%5D%5D",
           "mutable": true,
           "command": false,
           "percent": [
-            0.5114285605294364,
-            0.7371088019426463
+            0.6233333333333333,
+            0.7413333333333333
           ],
-          "description": "Offener Sarg",
+          "description": "Outer Door,\nNeeds the key or a Nat 20 Athletics or a DC 24 >SLieght of Hand",
           "minZoom": null,
           "maxZoom": null,
           "tooltip": "hover"
         },
         {
-          "id": "ID_ea8b28faf8fa",
-          "type": "Trap",
+          "id": "ID_4949eb9a991a",
+          "type": "PointOfInterest",
           "loc": [
-            -145.4499969482422,
-            99.07499694824219
+            -84.5,
+            46.4375
           ],
-          "layer": "%5B%5BChapel_of_the_Traitor.webp%5D%5D%20",
+          "layer": "%5B%5BTomb.jpg%5D%5D",
           "mutable": true,
           "command": false,
           "percent": [
-            0.7076785496303013,
-            0.8670640652652292
+            0.49533333333333335,
+            0.6008888888888889
           ],
-          "description": "Pressure Plate\nDC -12",
+          "description": "Dead Adventurerers,\n\nBeeing eaten by Kruthik",
           "minZoom": null,
           "maxZoom": null,
           "tooltip": "hover"
         },
         {
-          "id": "ID_1a9988ebcbe9",
-          "type": "Trap",
+          "id": "ID_ba9a7a2ac8db",
+          "type": "PointOfInterest",
           "loc": [
-            -145.17499542236328,
-            109.07500457763672
+            -81.75,
+            38.75
           ],
-          "layer": "%5B%5BChapel_of_the_Traitor.webp%5D%5D%20",
+          "layer": "%5B%5BTomb.jpg%5D%5D",
           "mutable": true,
           "command": false,
           "percent": [
-            0.779107175554548,
-            0.8654247119067856
+            0.41333333333333333,
+            0.5813333333333334
           ],
-          "description": "Arrow Trap \nDEX Save DC 14 (2d4 + 2)",
+          "description": "Magical Coffin,\nAmulett of Shielding,\nCeremonial Ob",
           "minZoom": null,
           "maxZoom": null,
           "tooltip": "hover"
         },
         {
-          "id": "ID_7828892bf88a",
-          "type": "Trap",
+          "id": "ID_4a08ba782bba",
+          "type": "PointOfInterest",
           "loc": [
-            -144.91562461853027,
-            42.71875
+            -87.8564453125,
+            38.3828125
           ],
-          "link": "Alcove (Chapel of the Traitor)",
-          "layer": "%5B%5BChapel_of_the_Traitor.webp%5D%5D%20",
+          "layer": "%5B%5BTomb.jpg%5D%5D",
           "mutable": true,
           "command": false,
           "percent": null,
+          "description": "Magical Coffin, Conjuration,\nCeremonial Obsidean Dagger +1",
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_6a7999d9dae8",
+          "type": "PointOfInterest",
+          "loc": [
+            -75.125,
+            55
+          ],
+          "layer": "%5B%5BTomb.jpg%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": [
+            0.5866666666666667,
+            0.5342222222222223
+          ],
+          "description": "Magical Coffin,\nPotion of Gaseous Form",
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_5aeb9b689878",
+          "type": "PointOfInterest",
+          "loc": [
+            -81.275390625,
+            43.515625
+          ],
+          "layer": "%5B%5BTomb.jpg%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": "Scroll of Protection against good and evil,\n15g 5s 3c\n3 Potions of healing\n5 Rations",
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_fb0b8b48db9b",
+          "type": "PointOfInterest",
+          "loc": [
+            -59.65625,
+            81.28125
+          ],
+          "layer": "%5B%5BTomb.jpg%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": [
+            0.867,
+            0.4242222222222222
+          ],
+          "description": "Ancient Altar covered by Yellow Mold. A Ancient Scroll lies coverd in Mold ontop of a obsidean Altar",
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_b9d9690babca",
+          "type": "PointOfInterest",
+          "loc": [
+            -78.625,
+            76.625
+          ],
+          "link": "Mummy",
+          "layer": "%5B%5BTomb.jpg%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": [
+            0.8173333333333334,
+            0.5591111111111111
+          ],
           "description": "",
           "minZoom": null,
           "maxZoom": null,
           "tooltip": "hover"
         },
         {
-          "id": "ID_dbb92bab180b",
-          "type": "Trap",
-          "loc": [
-            -109.44999885559082,
-            88.55000305175781
-          ],
-          "link": "Chest Trap Room (Chapell of the Traitor)",
-          "layer": "%5B%5BChapel_of_the_Traitor.webp%5D%5D%20",
-          "mutable": true,
-          "command": false,
-          "percent": [
-            0.6325000217982701,
-            0.6524590095713313
-          ],
-          "description": "Fire Trap - Chest Trigger\nVisible with Detect Magic\nDC -14 DEX (2d6 Fire Damage)",
-          "minZoom": null,
-          "maxZoom": null,
-          "tooltip": "hover"
-        },
-        {
-          "id": "ID_bb09e979dab8",
-          "type": "Trap",
-          "loc": [
-            -113.5999984741211,
-            114.9749984741211
-          ],
-          "link": "Snaring Vines",
-          "layer": "%5B%5BChapel_of_the_Traitor.webp%5D%5D%20",
-          "mutable": true,
-          "command": false,
-          "percent": [
-            0.821249989100865,
-            0.6771982025282927
-          ],
-          "description": null,
-          "minZoom": null,
-          "maxZoom": null,
-          "tooltip": "hover"
-        },
-        {
-          "id": "ID_5a5a9b4a1989",
-          "type": "Trap",
-          "loc": [
-            -125.95000457763672,
-            132.90000915527344
-          ],
-          "link": "Snaring Vines",
-          "layer": "%5B%5BChapel_of_the_Traitor.webp%5D%5D%20",
-          "mutable": true,
-          "command": false,
-          "percent": [
-            0.9492857796805245,
-            0.7508196994195929
-          ],
-          "description": null,
-          "minZoom": null,
-          "maxZoom": null,
-          "tooltip": "hover"
-        },
-        {
-          "id": "ID_285aea99585a",
-          "type": "Trap",
-          "loc": [
-            -136.17500019073486,
-            111.63750076293945
-          ],
-          "link": "Undead Warrior of K'Rul",
-          "layer": "%5B%5BChapel_of_the_Traitor.webp%5D%5D%20",
-          "mutable": true,
-          "command": false,
-          "percent": [
-            0.7974107197352818,
-            0.8117734735662286
-          ],
-          "description": null,
-          "minZoom": null,
-          "maxZoom": null,
-          "tooltip": "hover"
-        },
-        {
-          "id": "ID_f9aaa8e92a08",
-          "type": "Region",
-          "loc": [
-            -132.5999984741211,
-            128.89999389648438
-          ],
-          "link": "Chest Trap Room (Chapell of the Traitor)",
-          "layer": "%5B%5BChapel_of_the_Traitor.webp%5D%5D%20",
-          "mutable": true,
-          "command": false,
-          "percent": [
-            0.9207142421177456,
-            0.7904619879232256
-          ],
-          "description": null,
-          "minZoom": null,
-          "maxZoom": null,
-          "tooltip": "hover"
-        },
-        {
-          "id": "ID_08c998e9fbd9",
+          "id": "ID_29581ad86b19",
           "type": "PointOfInterest",
           "loc": [
-            -161.57500076293945,
-            30.82500457763672
+            -82.8564453125,
+            78.9765625
           ],
-          "layer": "%5B%5BChapel_of_the_Traitor.webp%5D%5D%20",
+          "layer": "%5B%5BTomb.jpg%5D%5D",
           "mutable": true,
           "command": false,
-          "percent": [
-            0.22017860412597656,
-            0.963189274294721
-          ],
-          "description": "4 Silver peaces and a rotted  rotted Book.",
+          "percent": null,
+          "description": "Loot:\nAlchemical Tools,\nScroll of Ray of Sickness,\nBone Dust,\nPotion of False Life,\nKey",
           "minZoom": null,
           "maxZoom": null,
           "tooltip": "hover"
         },
         {
-          "id": "ID_caea297aeb69",
-          "type": "Region",
+          "id": "ID_4a98f99ab87a",
+          "type": "PointOfInterest",
           "loc": [
-            -129.83906269073486,
-            21.378124237060547
+            -53.625,
+            46.8125
           ],
-          "link": "Kitchen (Chapel of the Traitor)",
-          "layer": "%5B%5BChapel_of_the_Traitor.webp%5D%5D%20",
+          "layer": "%5B%5BTomb.jpg%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": [
+            0.49933333333333335,
+            0.38133333333333336
+          ],
+          "description": "Door:\n\nNeeds the key from the Necromancers Lab",
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_382a08a9681b",
+          "type": "PointOfInterest",
+          "loc": [
+            -76.587890625,
+            20.953125
+          ],
+          "layer": "%5B%5BTomb.jpg%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": "Fountaine of Endless Yearing:\nPurpose: The fountain was once used by worshippers for ritual purification—but not of the body. Those who sought to become more powerful drank from it to strengthen their connection to the evil deity. However, the water is cursed and taints the soul.\n\nEffect: Drinking the water requires a Constitution saving throw (DC 15):\n\nOn a success, the drinker gains 2d4 temporary hit points and a feeling of intense vigor and advantage on stength and Dexterity Checks for 1 hour. After the hour passes the drinker takes necrotic damage equal to the temporary hitpoints gained.\n\nOn a failure, the water sapps the drinkers strength causing 1 level of exhaustion. Additionaly they take 1d6 necrotic damage as the water saps their life force.  \n",
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_5a8a1ba8883b",
+          "type": "PointOfInterest",
+          "loc": [
+            -60.3125,
+            82.25
+          ],
+          "link": "Scroll I of K'Rul",
+          "layer": "%5B%5BTomb.jpg%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": [
+            0.8773333333333333,
+            0.4288888888888889
+          ],
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_49393a780af8",
+          "type": "PointOfInterest",
+          "loc": [
+            -10.9189453125,
+            47.6640625
+          ],
+          "layer": "%5B%5BTomb.jpg%5D%5D",
           "mutable": true,
           "command": false,
           "percent": null,
@@ -778,149 +785,52 @@
           "tooltip": "hover"
         },
         {
-          "id": "ID_db4ba8188939",
-          "type": "PointOfInterest",
+          "id": "ID_281849dab968",
+          "type": "Trap",
           "loc": [
-            -105.375,
-            41.57500457763672
+            -28.587890625,
+            46.953125
           ],
-          "layer": "%5B%5BChapel_of_the_Traitor.webp%5D%5D%20",
-          "mutable": true,
-          "command": false,
-          "percent": [
-            0.29696431841169085,
-            0.6281669150521609
-          ],
-          "description": "Abstellkammer, verottetes Essen. \n\n2xd4 Weinflaschen haben den Verfallen unberührt überlebt.",
-          "minZoom": null,
-          "maxZoom": null,
-          "tooltip": "hover"
-        },
-        {
-          "id": "ID_8bb9998bcbab",
-          "type": "Region",
-          "loc": [
-            -80.90624618530273,
-            21.725006103515625
-          ],
-          "link": "The Hall (Chapel of the Traitor)",
-          "layer": "%5B%5BChapel_of_the_Traitor.webp%5D%5D%20",
+          "layer": "%5B%5BTomb.jpg%5D%5D",
           "mutable": true,
           "command": false,
           "percent": null,
-          "description": null,
+          "description": "Undead Warrior of K'Rul\nRing of Eldritch Power",
           "minZoom": null,
           "maxZoom": null,
           "tooltip": "hover"
         },
         {
-          "id": "ID_eb0a2b89a958",
-          "type": "Region",
-          "loc": [
-            -39.59999084472656,
-            28.70001220703125
-          ],
-          "link": "Tomb of Heroes",
-          "layer": "%5B%5BChapel_of_the_Traitor.webp%5D%5D%20",
-          "mutable": true,
-          "command": false,
-          "percent": [
-            0.20500008719308035,
-            0.23606551919360097
-          ],
-          "description": null,
-          "minZoom": null,
-          "maxZoom": null,
-          "tooltip": "hover"
-        },
-        {
-          "id": "ID_391aa909bbda",
-          "type": "Region",
-          "loc": [
-            -78.5,
-            120.07500457763672
-          ],
-          "link": "Necromancers Lab (Chapel of the Traitor)",
-          "layer": "%5B%5BChapel_of_the_Traitor.webp%5D%5D%20",
-          "mutable": true,
-          "command": false,
-          "percent": [
-            0.8576786041259765,
-            0.46795827123695977
-          ],
-          "description": null,
-          "minZoom": null,
-          "maxZoom": null,
-          "tooltip": "hover"
-        },
-        {
-          "id": "ID_fae8a94af95a",
+          "id": "ID_091be84bda69",
           "type": "PointOfInterest",
           "loc": [
-            -65.47812461853027,
-            102.33124542236328
+            -35.3564453125,
+            81.1953125
           ],
-          "layer": "%5B%5BChapel_of_the_Traitor.webp%5D%5D%20",
+          "layer": "%5B%5BTomb.jpg%5D%5D",
           "mutable": true,
           "command": false,
           "percent": null,
-          "description": "Scroll of Reanimate Dead\n20 gold ",
+          "description": "Loot:\n\nAmulet of the Hungry Soul,\n150gp,\nBone Dice,\nTattered old clothes,\na lot of broken glasses,\n4 rusted daggers,\n2 rusted shortswords,\nSome ancient wine(100gp),\nscroll of lesser Resotration,\nJewelery 50gp",
           "minZoom": null,
           "maxZoom": null,
           "tooltip": "hover"
         },
         {
-          "id": "ID_a9692978e93b",
-          "type": "Region",
-          "loc": [
-            -21.674999237060547,
-            120.16250228881836
-          ],
-          "link": "Sacrificial Chamber",
-          "layer": "%5B%5BChapel_of_the_Traitor.webp%5D%5D%20",
-          "mutable": true,
-          "command": false,
-          "percent": [
-            0.858303587777274,
-            0.12921012958009268
-          ],
-          "description": null,
-          "minZoom": null,
-          "maxZoom": null,
-          "tooltip": "hover"
-        },
-        {
-          "id": "ID_c83919381a3b",
-          "type": "Region",
-          "loc": [
-            -87.30000019073486,
-            72.36874961853027
-          ],
-          "link": "Altar des K'Rul",
-          "layer": "%5B%5BChapel_of_the_Traitor.webp%5D%5D%20",
-          "mutable": true,
-          "command": false,
-          "percent": [
-            0.5169196401323591,
-            0.520417288767421
-          ],
-          "description": null,
-          "minZoom": null,
-          "maxZoom": null,
-          "tooltip": "hover"
-        },
-        {
-          "id": "ID_f9bb7aca8a38",
+          "id": "ID_18fa9bc85a79",
           "type": "PointOfInterest",
           "loc": [
-            -112.11406230926514,
-            72.328125
+            -17.46875,
+            81.21875
           ],
-          "layer": "%5B%5BChapel_of_the_Traitor.webp%5D%5D%20",
+          "layer": "%5B%5BTomb.jpg%5D%5D",
           "mutable": true,
           "command": false,
-          "percent": null,
-          "description": "Versunstaltetete Statue von Engel Zariel\nDC 18 - Religion",
+          "percent": [
+            0.8663333333333333,
+            0.12422222222222222
+          ],
+          "description": "Potion of Healing x2,\nPotion of Greater Healing,\nPotion of Climbing,\nPotion of Water Breathing,\nPotion of Poison",
           "minZoom": null,
           "maxZoom": null,
           "tooltip": "hover"
