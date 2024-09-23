@@ -179,8 +179,304 @@
       ]
     },
     {
+      "id": "Traitors Crypt",
+      "lastAccessed": 1726907191817,
+      "markers": [
+        {
+          "id": "ID_69b9cb294b99",
+          "type": "PointOfInterest",
+          "loc": [
+            -104.25,
+            58.4375
+          ],
+          "layer": "%5B%5BTomb.jpg%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": [
+            0.6233333333333333,
+            0.7413333333333333
+          ],
+          "description": "Outer Door,\nNeeds the key or a Nat 20 Athletics or a DC 24 >SLieght of Hand",
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_4949eb9a991a",
+          "type": "PointOfInterest",
+          "loc": [
+            -84.5,
+            46.4375
+          ],
+          "layer": "%5B%5BTomb.jpg%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": [
+            0.49533333333333335,
+            0.6008888888888889
+          ],
+          "description": "Dead Adventurerers,\n\nBeeing eaten by Kruthik",
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_ba9a7a2ac8db",
+          "type": "PointOfInterest",
+          "loc": [
+            -81.75,
+            38.75
+          ],
+          "layer": "%5B%5BTomb.jpg%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": [
+            0.41333333333333333,
+            0.5813333333333334
+          ],
+          "description": "Magical Coffin,\nAmulett of Shielding,\nCeremonial Ob",
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_4a08ba782bba",
+          "type": "PointOfInterest",
+          "loc": [
+            -87.8564453125,
+            38.3828125
+          ],
+          "layer": "%5B%5BTomb.jpg%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": "Magical Coffin, Conjuration,\nCeremonial Obsidean Dagger +1",
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_6a7999d9dae8",
+          "type": "PointOfInterest",
+          "loc": [
+            -75.125,
+            55
+          ],
+          "layer": "%5B%5BTomb.jpg%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": [
+            0.5866666666666667,
+            0.5342222222222223
+          ],
+          "description": "Magical Coffin,\nPotion of Gaseous Form",
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_5aeb9b689878",
+          "type": "PointOfInterest",
+          "loc": [
+            -81.275390625,
+            43.515625
+          ],
+          "layer": "%5B%5BTomb.jpg%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": "Scroll of Protection against good and evil,\n15g 5s 3c\n3 Potions of healing\n5 Rations",
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_fb0b8b48db9b",
+          "type": "PointOfInterest",
+          "loc": [
+            -59.65625,
+            81.28125
+          ],
+          "layer": "%5B%5BTomb.jpg%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": [
+            0.867,
+            0.4242222222222222
+          ],
+          "description": "Ancient Altar covered by Yellow Mold. A Ancient Scroll lies coverd in Mold ontop of a obsidean Altar",
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_b9d9690babca",
+          "type": "PointOfInterest",
+          "loc": [
+            -78.625,
+            76.625
+          ],
+          "link": "Mummy",
+          "layer": "%5B%5BTomb.jpg%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": [
+            0.8173333333333334,
+            0.5591111111111111
+          ],
+          "description": "",
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_29581ad86b19",
+          "type": "PointOfInterest",
+          "loc": [
+            -82.8564453125,
+            78.9765625
+          ],
+          "layer": "%5B%5BTomb.jpg%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": "Loot:\nAlchemical Tools,\nScroll of Ray of Sickness,\nBone Dust,\nPotion of False Life,\nKey",
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_4a98f99ab87a",
+          "type": "PointOfInterest",
+          "loc": [
+            -53.625,
+            46.8125
+          ],
+          "layer": "%5B%5BTomb.jpg%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": [
+            0.49933333333333335,
+            0.38133333333333336
+          ],
+          "description": "Door:\n\nNeeds the key from the Necromancers Lab",
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_382a08a9681b",
+          "type": "PointOfInterest",
+          "loc": [
+            -76.587890625,
+            20.953125
+          ],
+          "layer": "%5B%5BTomb.jpg%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": "Fountaine of Endless Yearing:\nPurpose: The fountain was once used by worshippers for ritual purification—but not of the body. Those who sought to become more powerful drank from it to strengthen their connection to the evil deity. However, the water is cursed and taints the soul.\n\nEffect: Drinking the water requires a Constitution saving throw (DC 15):\n\nOn a success, the drinker gains 2d4 temporary hit points and a feeling of intense vigor and advantage on stength and Dexterity Checks for 1 hour. After the hour passes the drinker takes necrotic damage equal to the temporary hitpoints gained.\n\nOn a failure, the water sapps the drinkers strength causing 1 level of exhaustion. Additionaly they take 1d6 necrotic damage as the water saps their life force.  \n",
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_5a8a1ba8883b",
+          "type": "PointOfInterest",
+          "loc": [
+            -60.3125,
+            82.25
+          ],
+          "link": "Scroll I of K'Rul",
+          "layer": "%5B%5BTomb.jpg%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": [
+            0.8773333333333333,
+            0.4288888888888889
+          ],
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_49393a780af8",
+          "type": "PointOfInterest",
+          "loc": [
+            -10.9189453125,
+            47.6640625
+          ],
+          "layer": "%5B%5BTomb.jpg%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_281849dab968",
+          "type": "Trap",
+          "loc": [
+            -28.587890625,
+            46.953125
+          ],
+          "layer": "%5B%5BTomb.jpg%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": "Undead Warrior of K'Rul\nRing of Eldritch Power",
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_091be84bda69",
+          "type": "PointOfInterest",
+          "loc": [
+            -35.3564453125,
+            81.1953125
+          ],
+          "layer": "%5B%5BTomb.jpg%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": "Loot:\n\nAmulet of the Hungry Soul,\n150gp,\nBone Dice,\nTattered old clothes,\na lot of broken glasses,\n4 rusted daggers,\n2 rusted shortswords,\nSome ancient wine(100gp),\nscroll of lesser Resotration,\nJewelery 50gp",
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_18fa9bc85a79",
+          "type": "PointOfInterest",
+          "loc": [
+            -17.46875,
+            81.21875
+          ],
+          "layer": "%5B%5BTomb.jpg%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": [
+            0.8663333333333333,
+            0.12422222222222222
+          ],
+          "description": "Potion of Healing x2,\nPotion of Greater Healing,\nPotion of Climbing,\nPotion of Water Breathing,\nPotion of Poison",
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        }
+      ],
+      "overlays": [],
+      "shapes": [],
+      "files": [
+        "1.World/Countries/Altara/Cities and Towns/Rekton/Places/Chapel of the Traitor(Dur)/Chapel of the Traitor.md"
+      ]
+    },
+    {
       "id": "Continent Map ",
-      "lastAccessed": 1725964229583,
+      "lastAccessed": 1727095415129,
       "markers": [
         {
           "id": "ID_693919c87b79",
@@ -538,244 +834,16 @@
           "minZoom": null,
           "maxZoom": null,
           "tooltip": "hover"
-        }
-      ],
-      "overlays": [],
-      "shapes": [],
-      "files": [
-        "1.World/Continent Map.md"
-      ]
-    },
-    {
-      "id": "Traitors Crypt",
-      "lastAccessed": 1726907191817,
-      "markers": [
-        {
-          "id": "ID_69b9cb294b99",
-          "type": "PointOfInterest",
-          "loc": [
-            -104.25,
-            58.4375
-          ],
-          "layer": "%5B%5BTomb.jpg%5D%5D",
-          "mutable": true,
-          "command": false,
-          "percent": [
-            0.6233333333333333,
-            0.7413333333333333
-          ],
-          "description": "Outer Door,\nNeeds the key or a Nat 20 Athletics or a DC 24 >SLieght of Hand",
-          "minZoom": null,
-          "maxZoom": null,
-          "tooltip": "hover"
         },
         {
-          "id": "ID_4949eb9a991a",
-          "type": "PointOfInterest",
+          "id": "ID_0aa82bbb2b68",
+          "type": "Region",
           "loc": [
-            -84.5,
-            46.4375
+            -221.17578125,
+            275
           ],
-          "layer": "%5B%5BTomb.jpg%5D%5D",
-          "mutable": true,
-          "command": false,
-          "percent": [
-            0.49533333333333335,
-            0.6008888888888889
-          ],
-          "description": "Dead Adventurerers,\n\nBeeing eaten by Kruthik",
-          "minZoom": null,
-          "maxZoom": null,
-          "tooltip": "hover"
-        },
-        {
-          "id": "ID_ba9a7a2ac8db",
-          "type": "PointOfInterest",
-          "loc": [
-            -81.75,
-            38.75
-          ],
-          "layer": "%5B%5BTomb.jpg%5D%5D",
-          "mutable": true,
-          "command": false,
-          "percent": [
-            0.41333333333333333,
-            0.5813333333333334
-          ],
-          "description": "Magical Coffin,\nAmulett of Shielding,\nCeremonial Ob",
-          "minZoom": null,
-          "maxZoom": null,
-          "tooltip": "hover"
-        },
-        {
-          "id": "ID_4a08ba782bba",
-          "type": "PointOfInterest",
-          "loc": [
-            -87.8564453125,
-            38.3828125
-          ],
-          "layer": "%5B%5BTomb.jpg%5D%5D",
-          "mutable": true,
-          "command": false,
-          "percent": null,
-          "description": "Magical Coffin, Conjuration,\nCeremonial Obsidean Dagger +1",
-          "minZoom": null,
-          "maxZoom": null,
-          "tooltip": "hover"
-        },
-        {
-          "id": "ID_6a7999d9dae8",
-          "type": "PointOfInterest",
-          "loc": [
-            -75.125,
-            55
-          ],
-          "layer": "%5B%5BTomb.jpg%5D%5D",
-          "mutable": true,
-          "command": false,
-          "percent": [
-            0.5866666666666667,
-            0.5342222222222223
-          ],
-          "description": "Magical Coffin,\nPotion of Gaseous Form",
-          "minZoom": null,
-          "maxZoom": null,
-          "tooltip": "hover"
-        },
-        {
-          "id": "ID_5aeb9b689878",
-          "type": "PointOfInterest",
-          "loc": [
-            -81.275390625,
-            43.515625
-          ],
-          "layer": "%5B%5BTomb.jpg%5D%5D",
-          "mutable": true,
-          "command": false,
-          "percent": null,
-          "description": "Scroll of Protection against good and evil,\n15g 5s 3c\n3 Potions of healing\n5 Rations",
-          "minZoom": null,
-          "maxZoom": null,
-          "tooltip": "hover"
-        },
-        {
-          "id": "ID_fb0b8b48db9b",
-          "type": "PointOfInterest",
-          "loc": [
-            -59.65625,
-            81.28125
-          ],
-          "layer": "%5B%5BTomb.jpg%5D%5D",
-          "mutable": true,
-          "command": false,
-          "percent": [
-            0.867,
-            0.4242222222222222
-          ],
-          "description": "Ancient Altar covered by Yellow Mold. A Ancient Scroll lies coverd in Mold ontop of a obsidean Altar",
-          "minZoom": null,
-          "maxZoom": null,
-          "tooltip": "hover"
-        },
-        {
-          "id": "ID_b9d9690babca",
-          "type": "PointOfInterest",
-          "loc": [
-            -78.625,
-            76.625
-          ],
-          "link": "Mummy",
-          "layer": "%5B%5BTomb.jpg%5D%5D",
-          "mutable": true,
-          "command": false,
-          "percent": [
-            0.8173333333333334,
-            0.5591111111111111
-          ],
-          "description": "",
-          "minZoom": null,
-          "maxZoom": null,
-          "tooltip": "hover"
-        },
-        {
-          "id": "ID_29581ad86b19",
-          "type": "PointOfInterest",
-          "loc": [
-            -82.8564453125,
-            78.9765625
-          ],
-          "layer": "%5B%5BTomb.jpg%5D%5D",
-          "mutable": true,
-          "command": false,
-          "percent": null,
-          "description": "Loot:\nAlchemical Tools,\nScroll of Ray of Sickness,\nBone Dust,\nPotion of False Life,\nKey",
-          "minZoom": null,
-          "maxZoom": null,
-          "tooltip": "hover"
-        },
-        {
-          "id": "ID_4a98f99ab87a",
-          "type": "PointOfInterest",
-          "loc": [
-            -53.625,
-            46.8125
-          ],
-          "layer": "%5B%5BTomb.jpg%5D%5D",
-          "mutable": true,
-          "command": false,
-          "percent": [
-            0.49933333333333335,
-            0.38133333333333336
-          ],
-          "description": "Door:\n\nNeeds the key from the Necromancers Lab",
-          "minZoom": null,
-          "maxZoom": null,
-          "tooltip": "hover"
-        },
-        {
-          "id": "ID_382a08a9681b",
-          "type": "PointOfInterest",
-          "loc": [
-            -76.587890625,
-            20.953125
-          ],
-          "layer": "%5B%5BTomb.jpg%5D%5D",
-          "mutable": true,
-          "command": false,
-          "percent": null,
-          "description": "Fountaine of Endless Yearing:\nPurpose: The fountain was once used by worshippers for ritual purification—but not of the body. Those who sought to become more powerful drank from it to strengthen their connection to the evil deity. However, the water is cursed and taints the soul.\n\nEffect: Drinking the water requires a Constitution saving throw (DC 15):\n\nOn a success, the drinker gains 2d4 temporary hit points and a feeling of intense vigor and advantage on stength and Dexterity Checks for 1 hour. After the hour passes the drinker takes necrotic damage equal to the temporary hitpoints gained.\n\nOn a failure, the water sapps the drinkers strength causing 1 level of exhaustion. Additionaly they take 1d6 necrotic damage as the water saps their life force.  \n",
-          "minZoom": null,
-          "maxZoom": null,
-          "tooltip": "hover"
-        },
-        {
-          "id": "ID_5a8a1ba8883b",
-          "type": "PointOfInterest",
-          "loc": [
-            -60.3125,
-            82.25
-          ],
-          "link": "Scroll I of K'Rul",
-          "layer": "%5B%5BTomb.jpg%5D%5D",
-          "mutable": true,
-          "command": false,
-          "percent": [
-            0.8773333333333333,
-            0.4288888888888889
-          ],
-          "description": null,
-          "minZoom": null,
-          "maxZoom": null,
-          "tooltip": "hover"
-        },
-        {
-          "id": "ID_49393a780af8",
-          "type": "PointOfInterest",
-          "loc": [
-            -10.9189453125,
-            47.6640625
-          ],
-          "layer": "%5B%5BTomb.jpg%5D%5D",
+          "link": "The Waists",
+          "layer": "%5B%5BTal_Dorron.jpg%5D%5D%20",
           "mutable": true,
           "command": false,
           "percent": null,
@@ -785,52 +853,100 @@
           "tooltip": "hover"
         },
         {
-          "id": "ID_281849dab968",
-          "type": "Trap",
+          "id": "ID_68098b9bfb78",
+          "type": "Region",
           "loc": [
-            -28.587890625,
-            46.953125
+            -145.67578125,
+            370.25
           ],
-          "layer": "%5B%5BTomb.jpg%5D%5D",
+          "layer": "%5B%5BTal_Dorron.jpg%5D%5D%20",
           "mutable": true,
           "command": false,
           "percent": null,
-          "description": "Undead Warrior of K'Rul\nRing of Eldritch Power",
+          "description": null,
           "minZoom": null,
           "maxZoom": null,
           "tooltip": "hover"
         },
         {
-          "id": "ID_091be84bda69",
-          "type": "PointOfInterest",
+          "id": "ID_9b9aa8a9ead9",
+          "type": "Region",
           "loc": [
-            -35.3564453125,
-            81.1953125
+            -175.337890625,
+            213.75
           ],
-          "layer": "%5B%5BTomb.jpg%5D%5D",
+          "link": "Keladar",
+          "layer": "%5B%5BTal_Dorron.jpg%5D%5D%20",
           "mutable": true,
           "command": false,
           "percent": null,
-          "description": "Loot:\n\nAmulet of the Hungry Soul,\n150gp,\nBone Dice,\nTattered old clothes,\na lot of broken glasses,\n4 rusted daggers,\n2 rusted shortswords,\nSome ancient wine(100gp),\nscroll of lesser Resotration,\nJewelery 50gp",
+          "description": null,
           "minZoom": null,
           "maxZoom": null,
           "tooltip": "hover"
         },
         {
-          "id": "ID_18fa9bc85a79",
-          "type": "PointOfInterest",
+          "id": "ID_5bfa29ea3859",
+          "type": "Region",
           "loc": [
-            -17.46875,
-            81.21875
+            -205.42578125,
+            111.5
           ],
-          "layer": "%5B%5BTomb.jpg%5D%5D",
+          "link": "Arafel",
+          "layer": "%5B%5BTal_Dorron.jpg%5D%5D%20",
           "mutable": true,
           "command": false,
-          "percent": [
-            0.8663333333333333,
-            0.12422222222222222
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_eab9c81bf9a8",
+          "type": "Region",
+          "loc": [
+            -114.462890625,
+            139.25
           ],
-          "description": "Potion of Healing x2,\nPotion of Greater Healing,\nPotion of Climbing,\nPotion of Water Breathing,\nPotion of Poison",
+          "layer": "%5B%5BTal_Dorron.jpg%5D%5D%20",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_78196b5aa989",
+          "type": "Region",
+          "loc": [
+            -270.962890625,
+            325.5
+          ],
+          "link": "Morwenlar",
+          "layer": "%5B%5BTal_Dorron.jpg%5D%5D%20",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_8ae88aabe81b",
+          "type": "Region",
+          "loc": [
+            -109.8515625,
+            217
+          ],
+          "layer": "%5B%5BTal_Dorron.jpg%5D%5D%20",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": "Der Aranische Wald",
           "minZoom": null,
           "maxZoom": null,
           "tooltip": "hover"
@@ -838,9 +954,7 @@
       ],
       "overlays": [],
       "shapes": [],
-      "files": [
-        "1.World/Countries/Altara/Cities and Towns/Rekton/Places/Chapel of the Traitor(Dur)/Chapel of the Traitor.md"
-      ]
+      "files": []
     }
   ],
   "defaultMarker": {

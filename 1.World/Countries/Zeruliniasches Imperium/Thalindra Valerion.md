@@ -1,0 +1,1 @@
+Die letzte Kaiserin der [[Zerulianisches Imperiums]]. Die Mutter von [[Terian Nightblood]].

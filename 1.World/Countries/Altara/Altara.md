@@ -17,6 +17,4 @@ tags:
 	- [[Lake Lysindor]]
 	- Ultor
 
-- Flagge:![[Altaran_Banner.webp]]
-
-#
+- Flagge:  Aufgehende Rote Sonne auf  Blauem hinttergund

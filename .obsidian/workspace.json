@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "dfc657d48245b6a9",
+        "id": "e240049294489441",
         "type": "tabs",
         "children": [
           {
-            "id": "16df2a27650ef8b1",
+            "id": "b5a452b6fc4f43a3",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "1.World/Countries/Altara/Cities and Towns/Rekton/Places/Hafen.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "graph",
+              "state": {}
             }
           }
         ]
@@ -95,9 +91,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "1.World/Countries/Altara/Cities and Towns/Rekton/Places/Hafen.md"
-              }
+              "state": {}
             }
           },
           {
@@ -106,7 +100,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1.World/Countries/Altara/Cities and Towns/Rekton/Places/Hafen.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,7 +116,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "1.World/Countries/Altara/Cities and Towns/Rekton/Places/Hafen.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -157,49 +149,86 @@
       "obsidian-leaflet-plugin:Open Leaflet Map": false
     }
   },
-  "active": "16df2a27650ef8b1",
+  "floating": {
+    "id": "6831fca1a8504c6d",
+    "type": "floating",
+    "children": [
+      {
+        "id": "015271e6310c891d",
+        "type": "window",
+        "children": [
+          {
+            "id": "11ba119b94698626",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "742a2ce01b91e859",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "1.World/Continent Map.md",
+                    "mode": "source",
+                    "source": false
+                  }
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "vertical",
+        "x": 448,
+        "y": 120,
+        "width": 1024,
+        "height": 800,
+        "maximize": false,
+        "zoom": 0
+      }
+    ]
+  },
+  "active": "b5a452b6fc4f43a3",
   "lastOpenFiles": [
-    "1.World/Countries/Altara/Cities and Towns/Rekton/Places/Rekton Marktplatz.md",
+    "1.World/Gods, Demigods and Myths/K'Rul.md",
+    "Die Verbrannte Erde.md",
+    "3.Session Journal/Session 2/Planned Plot.md",
+    "3.Session Journal/Session 1/Planned Plot.md",
+    "1.World/Countries/Altara/Personen/Königin Lysandra Trakand.md",
+    "1.World/Countries/Altara/Altara.md",
+    "z_Attachments/Altaran_Banner.webp",
+    "1.World/Countries/Altara/Personen/Königin Elara Trakand.md",
+    "1.World/Countries/Altara/Personen/König Aldric Trakand.md",
+    "1.World/Countries/Iliandor/Iliandor.md",
+    "1.World/Continent Map.md",
+    "1.World/Countries/Malkier/Malkier.md",
+    "1.World/Countries/Malkier",
+    "1.World/Countries/Morwenlar/Morwenlar.md",
+    "1.World/Countries/Keladar/Keladar.md",
+    "1.World/Countries/Morwenlar",
+    "1.World/Countries/Arafel/Arafel.md",
+    "1.World/Regions/The Waists.md",
+    "1.World/Countries/Iliandor",
+    "1.World/Countries/Keladar",
+    "1.World/Countries/Zeruliniasches Imperium/Terian Nightblood.md",
+    "1.World/Countries/Arafel",
+    "1.World/Countries/Altara/A",
+    "1.World/Countries/Zeruliniasches Imperium/Thalindra Valerion.md",
+    "1.World/Countries/Zeruliniasches Imperium/Septimus Valerion.md",
+    "1.World/Countries/Zeruliniasches Imperium/Terian Rebelion.md",
     "1.World/Countries/Altara/Cities and Towns/Rekton/Places/Hafen.md",
+    "1.World/Countries/Altara/Cities and Towns/Rekton/Places/Rekton Marktplatz.md",
     "1.World/Countries/Altara/Cities and Towns/Rekton/Personen/Finrod (Fischermann).md",
     "4.DM Screen/Namen.md",
     "1.World/Countries/Altara/Cities and Towns/Rekton/Personen/Evelyn Seidenstich.md",
-    "3.Session Journal/Session 2/Plot.md",
     "1.World/Countries/Altara/Cities and Towns/Ebou Dar/Arkaneum von Schild und Stern.md",
     "1.World/Countries/Altara/Cities and Towns/Ebou Dar/Tersainenpalast.md",
-    "1.World/Countries/Altara/Cities and Towns/Ebou Dar/Tempel der Mystra.md",
-    "1.World/Countries/Altara/Cities and Towns/Ebou Dar/Tempel des Tyrs.md",
-    "1.World/Countries/Altara/Cities and Towns/Ebou Dar/Tempel des Lethanders.md",
-    "1.World/Countries/Altara/Cities and Towns/Ebou Dar/Hallen des Wissens.md",
-    "1.World/Countries/Zeruliniasches Imperium/Terian Rebelion.md",
     "1.World/Countries/Altara/Cities and Towns/Ebou Dar",
-    "1.World/Countries/Zeruliniasches Imperium/Zerulianisches Imperiums.md",
-    "1.World/Countries/Altara/Personen/Königin Lysandra Trakand.md",
-    "1.World/Countries/Altara/Königsgarde.md",
-    "1.World/Countries/Altara/Königliche Familie Trakand.md",
-    "1.World/Gods, Demigods and Myths/Terian Sturmfaust.md",
-    "1.World/Countries/Altara/Cities and Towns/Rekton/Places/Chapel of the Traitor(Dur)/Chapel of the Traitor.md",
-    "5.Group/Nuriel Silberschmied.md",
-    "3.Session Journal/Session 1/Notes.md",
     "3.Session Journal/Session 2",
-    "3.Session Journal/Untitled.md",
-    "3.Session Journal/Session 1/Planned Plot.md",
-    "1.World/Countries/Altara/Cities and Towns/Rekton/Places/Chapel of the Traitor(Dur)/Das Grimoire des Ewigen Hungers.md",
-    "1.World/Countries/Altara/Cities and Towns/Rekton/Places/Chapel of the Traitor(Dur)/Scroll I of K'Rul.md",
     "z_Attachments/Tomb.jpg",
-    "1.World/Countries/Altara/Cities and Towns/Rekton/Places/Dur.md",
     "6. Tokens/token_Kruthik.png",
     "6. Tokens",
     "z_Attachments/Chapel_of_the_Traitor.webp",
     "2.Mechanics/Krankheiten",
     "z_Attachments/Warrior_of_K'Rul.jpg",
-    "2.Mechanics/Misc",
-    "2.Mechanics/Magic Items",
-    "1.World/Countries/Altara/Cities and Towns/Rekton/Places/Chapel of the Traitor(Dur)",
-    "z_Attachments/Altaran_Banner.webp",
-    "4.DM Screen/Names/Unbenannt",
-    "4.DM Screen/Names",
-    "2.Mechanics/Monsters",
     "z_Attachments/Tal_Dorron.jpg",
     "z_Attachments/Rekton.jpg",
     "Untitled.canvas"

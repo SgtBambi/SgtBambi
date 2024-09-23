@@ -1,4 +1,0 @@
-- Boot nach [[Dur]] nehmen 20 g
-- [[Chapel of the Traitor]]
-- Quest abgabe bei [[Lord Edrin Thorne]]
-- 

@@ -1,0 +1,6 @@
+- Boot nach [[Dur]] nehmen 20 g
+- [[Chapel of the Traitor]]
+- Quest abgabe bei [[Lord Edrin Thorne]]
+- [[Thalion Blattspanner]] wird von einer Gruppe Menschen bedrängt auf grund seiner Spezies. 
+	- Einladen in seinen Laden, [[Der Prächtige Schuss]].
+	- Exposition zum [[Zerulianisches Imperiums]]

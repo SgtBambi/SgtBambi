@@ -24,7 +24,7 @@ Domains:
 - List
 - Tod
 
-**Hintergrund:** K'Rul ist ein uralter und lange vergessener Gott des Hungers, der Macht und der ungebändigten Ambition. Auf seinem Weg, der Gott der Götter zu werden, wurde er in einer Konfrontation mit [[Tyr]] und [[Lethander]] zerstört. Sein Avatar wurde in einem monumentalen Kampf besiegt, der [[Die Verbrannte Erde]] schuf. Sein schwer verwundeter Avatar wurde in Limbo zwischen den Ebenen verbannt und gefesselt, wodurch er die Titel des Krüppelgottes und des Gefesselten Gottes erhielt.
+**Hintergrund:** K'Rul ist ein uralter und lange vergessener Gott des Hungers, der Macht und der ungebändigten Ambition. Auf seinem Weg, der Gott der Götter zu werden, wurde er in einer Konfrontation mit [[Tyr]] und [[Lethander]] zerstört. Sein Avatar wurde in einem monumentalen Kampf besiegt, der [[The Scorth]] schuf. Sein schwer verwundeter Avatar wurde in Limbo zwischen den Ebenen verbannt und gefesselt, wodurch er die Titel des Krüppelgottes und des Gefesselten Gottes erhielt.
 
 ## Werte seines Glaubens 
 - **Hunger nach Macht:** Die Anhänger glauben daran, dass Macht das ultimative Ziel ist und dass jeder, der sich nicht dem Streben nach Macht unterwirft, schwach ist.
