@@ -4,18 +4,131 @@
     "type": "split",
     "children": [
       {
-        "id": "e240049294489441",
+        "id": "6f9ff2b6cf0a115e",
         "type": "tabs",
         "children": [
           {
-            "id": "b5a452b6fc4f43a3",
+            "id": "b5f373e5da462025",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "1.World/Countries/Altara/Cities and Towns/Rekton/Personen/Finrod (Fischermann).md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "64b66b4c8b55e177",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "1.World/Countries/Altara/Cities and Towns/Rekton/Personen/Lord Edrin Thorne.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "74b51125fc870d89",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "1.World/Countries/Altara/Cities and Towns/Rekton/Personen/Thalion Blattspanner.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "e563ec2ea476c53d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "1.World/Countries/Altara/Cities and Towns/Rekton/Personen/Grogar Eisenfaust.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "45c31f5742b2729e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "1.World/Countries/Altara/Cities and Towns/Rekton/Places/Rekton Marktplatz.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "fc7cc70da76c217a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "1.World/Countries/Altara/Cities and Towns/Rekton/Places/Burg Rekton.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "d65f50ff25f7f9e6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "1.World/Countries/Altara/Cities and Towns/Rekton/Places/Chapel of the Traitor(Dur)/Chapel of the Traitor.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "f865c09857e4db5e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "1.World/Countries/Altara/Cities and Towns/Rekton/Places/Chapel of the Traitor(Dur)/Scroll I of K'Rul.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "1bdcc800bfc1068d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "1.World/Countries/Altara/Cities and Towns/Rekton/Places/Chapel of the Traitor(Dur)/Chapel of the Traitor.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "1f73b01595317afe",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "5.Group/Nari Akida.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
-        ]
+        ],
+        "currentTab": 8
       }
     ],
     "direction": "vertical"
@@ -91,7 +204,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "1.World/Countries/Altara/Cities and Towns/Rekton/Places/Chapel of the Traitor(Dur)/Chapel of the Traitor.md"
+              }
             }
           },
           {
@@ -100,6 +215,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "1.World/Countries/Altara/Cities and Towns/Rekton/Places/Chapel of the Traitor(Dur)/Chapel of the Traitor.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,6 +232,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "1.World/Countries/Altara/Cities and Towns/Rekton/Places/Chapel of the Traitor(Dur)/Chapel of the Traitor.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -139,55 +256,36 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "switcher:Open quick switcher": false,
-      "graph:Open graph view": false,
-      "canvas:Create new canvas": false,
-      "daily-notes:Open today's daily note": false,
-      "templates:Insert template": false,
-      "command-palette:Open command palette": false,
+      "switcher:Schnellauswahl öffnen": false,
+      "graph:Graphen-Ansicht öffnen": false,
+      "canvas:Neuen Canvas erstellen": false,
+      "daily-notes:Heutige Notiz öffnen": false,
+      "templates:Vorlage einfügen": false,
+      "command-palette:Befehlspalette öffnen": false,
       "table-editor-obsidian:Advanced Tables Toolbar": false,
       "obsidian-leaflet-plugin:Open Leaflet Map": false
     }
   },
-  "floating": {
-    "id": "6831fca1a8504c6d",
-    "type": "floating",
-    "children": [
-      {
-        "id": "015271e6310c891d",
-        "type": "window",
-        "children": [
-          {
-            "id": "11ba119b94698626",
-            "type": "tabs",
-            "children": [
-              {
-                "id": "742a2ce01b91e859",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "1.World/Continent Map.md",
-                    "mode": "source",
-                    "source": false
-                  }
-                }
-              }
-            ]
-          }
-        ],
-        "direction": "vertical",
-        "x": 448,
-        "y": 120,
-        "width": 1024,
-        "height": 800,
-        "maximize": false,
-        "zoom": 0
-      }
-    ]
-  },
-  "active": "b5a452b6fc4f43a3",
+  "active": "1bdcc800bfc1068d",
   "lastOpenFiles": [
+    "1.World/Countries/Altara/Cities and Towns/Rekton/Places/Dur.md",
+    "5.Group/Nuriel Silberschmied.md",
+    "1.World/Countries/Altara/Cities and Towns/Rekton/Personen/Grogar Eisenfaust.md",
+    "3.Session Journal/Session 2/Notizen.md",
+    "1.World/Countries/Altara/Cities and Towns/Rekton/Rekton.md",
+    "5.Group/Nari Akida.md",
+    "1.World/Countries/Altara/Cities and Towns/Rekton/Personen/Elowen Steinschritt.md",
+    "1.World/Countries/Altara/Cities and Towns/Rekton/Places/Zum Amaranth.md",
+    "1.World/Countries/Altara/Cities and Towns/Rekton/Places/Chapel of the Traitor(Dur)/Scroll I of K'Rul.md",
+    "1.World/Countries/Altara/Cities and Towns/Rekton/Places/Chapel of the Traitor(Dur)/Das Grimoire des Ewigen Hungers.md",
+    "1.World/Countries/Altara/Cities and Towns/Rekton/Places/Chapel of the Traitor(Dur)/Chapel of the Traitor.md",
+    "1.World/Countries/Altara/Cities and Towns/Rekton/Places/Burg Rekton.md",
+    "1.World/Countries/Altara/Cities and Towns/Rekton/Places/Der Prächtige Schuss.md",
+    "1.World/Countries/Altara/Cities and Towns/Rekton/Places/Rekton Marktplatz.md",
+    "1.World/Countries/Altara/Cities and Towns/Rekton/Personen/Thalion Blattspanner.md",
+    "1.World/Countries/Altara/Cities and Towns/Rekton/Personen/Lord Edrin Thorne.md",
+    "1.World/Countries/Altara/Cities and Towns/Rekton/Personen/Finrod (Fischermann).md",
+    "1.World/Countries/Altara/Cities and Towns/Rekton/Personen/Findrod Silberstrom.md",
     "1.World/Gods, Demigods and Myths/K'Rul.md",
     "Die Verbrannte Erde.md",
     "3.Session Journal/Session 2/Planned Plot.md",
@@ -197,30 +295,12 @@
     "z_Attachments/Altaran_Banner.webp",
     "1.World/Countries/Altara/Personen/Königin Elara Trakand.md",
     "1.World/Countries/Altara/Personen/König Aldric Trakand.md",
-    "1.World/Countries/Iliandor/Iliandor.md",
-    "1.World/Continent Map.md",
-    "1.World/Countries/Malkier/Malkier.md",
     "1.World/Countries/Malkier",
-    "1.World/Countries/Morwenlar/Morwenlar.md",
-    "1.World/Countries/Keladar/Keladar.md",
     "1.World/Countries/Morwenlar",
-    "1.World/Countries/Arafel/Arafel.md",
-    "1.World/Regions/The Waists.md",
     "1.World/Countries/Iliandor",
     "1.World/Countries/Keladar",
-    "1.World/Countries/Zeruliniasches Imperium/Terian Nightblood.md",
     "1.World/Countries/Arafel",
     "1.World/Countries/Altara/A",
-    "1.World/Countries/Zeruliniasches Imperium/Thalindra Valerion.md",
-    "1.World/Countries/Zeruliniasches Imperium/Septimus Valerion.md",
-    "1.World/Countries/Zeruliniasches Imperium/Terian Rebelion.md",
-    "1.World/Countries/Altara/Cities and Towns/Rekton/Places/Hafen.md",
-    "1.World/Countries/Altara/Cities and Towns/Rekton/Places/Rekton Marktplatz.md",
-    "1.World/Countries/Altara/Cities and Towns/Rekton/Personen/Finrod (Fischermann).md",
-    "4.DM Screen/Namen.md",
-    "1.World/Countries/Altara/Cities and Towns/Rekton/Personen/Evelyn Seidenstich.md",
-    "1.World/Countries/Altara/Cities and Towns/Ebou Dar/Arkaneum von Schild und Stern.md",
-    "1.World/Countries/Altara/Cities and Towns/Ebou Dar/Tersainenpalast.md",
     "1.World/Countries/Altara/Cities and Towns/Ebou Dar",
     "3.Session Journal/Session 2",
     "z_Attachments/Tomb.jpg",
