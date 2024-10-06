@@ -1,0 +1,1 @@
+Drasil touched the Ring of [[K'Rul]]. [[K'Rul]] used this opertunity to make him one of his Warlocks.
