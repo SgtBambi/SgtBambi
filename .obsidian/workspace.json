@@ -4,131 +4,59 @@
     "type": "split",
     "children": [
       {
-        "id": "6f9ff2b6cf0a115e",
+        "id": "5c7489680a422bb3",
         "type": "tabs",
         "children": [
           {
-            "id": "b5f373e5da462025",
+            "id": "2f11fcc4d34e7d89",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1.World/Countries/Altara/Cities and Towns/Rekton/Personen/Finrod (Fischermann).md",
+                "file": "1.World/Countries/Altara/Cities and Towns/Rekton/Personen/Borin Eisenhand.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "64b66b4c8b55e177",
+            "id": "3e14ac32f8c6420b",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1.World/Countries/Altara/Cities and Towns/Rekton/Personen/Lord Edrin Thorne.md",
+                "file": "1.World/Countries/Altara/Cities and Towns/Rekton/Personen/Priester Beron.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "74b51125fc870d89",
+            "id": "eec021249373db1f",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1.World/Countries/Altara/Cities and Towns/Rekton/Personen/Thalion Blattspanner.md",
+                "file": "3.Session Journal/Session 3/Notizen.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "e563ec2ea476c53d",
+            "id": "01ab001014c0d2fe",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1.World/Countries/Altara/Cities and Towns/Rekton/Personen/Grogar Eisenfaust.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "45c31f5742b2729e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "1.World/Countries/Altara/Cities and Towns/Rekton/Places/Rekton Marktplatz.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "fc7cc70da76c217a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "1.World/Countries/Altara/Cities and Towns/Rekton/Places/Burg Rekton.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "d65f50ff25f7f9e6",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "1.World/Countries/Altara/Cities and Towns/Rekton/Places/Chapel of the Traitor(Dur)/Chapel of the Traitor.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "f865c09857e4db5e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "1.World/Countries/Altara/Cities and Towns/Rekton/Places/Chapel of the Traitor(Dur)/Scroll I of K'Rul.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "1bdcc800bfc1068d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "1.World/Countries/Altara/Cities and Towns/Rekton/Places/Chapel of the Traitor(Dur)/Chapel of the Traitor.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "1f73b01595317afe",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "5.Group/Nari Akida.md",
+                "file": "1.World/Countries/Altara/Cities and Towns/Rekton/Personen/Bealgrim (Karavane).md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 8
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -205,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1.World/Countries/Altara/Cities and Towns/Rekton/Places/Chapel of the Traitor(Dur)/Chapel of the Traitor.md"
+                "file": "3.Session Journal/Session 3/Notizen.md"
               }
             }
           },
@@ -215,7 +143,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1.World/Countries/Altara/Cities and Towns/Rekton/Places/Chapel of the Traitor(Dur)/Chapel of the Traitor.md",
+                "file": "3.Session Journal/Session 3/Notizen.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -232,7 +160,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "1.World/Countries/Altara/Cities and Towns/Rekton/Places/Chapel of the Traitor(Dur)/Chapel of the Traitor.md",
+                "file": "3.Session Journal/Session 3/Notizen.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -266,35 +194,36 @@
       "obsidian-leaflet-plugin:Open Leaflet Map": false
     }
   },
-  "active": "1bdcc800bfc1068d",
+  "active": "eec021249373db1f",
   "lastOpenFiles": [
-    "1.World/Countries/Altara/Cities and Towns/Rekton/Places/Dur.md",
-    "5.Group/Nuriel Silberschmied.md",
-    "1.World/Countries/Altara/Cities and Towns/Rekton/Personen/Grogar Eisenfaust.md",
-    "3.Session Journal/Session 2/Notizen.md",
     "1.World/Countries/Altara/Cities and Towns/Rekton/Rekton.md",
-    "5.Group/Nari Akida.md",
-    "1.World/Countries/Altara/Cities and Towns/Rekton/Personen/Elowen Steinschritt.md",
+    "1.World/Countries/Altara/Cities and Towns/Rekton/Personen/Borin Eisenhand.md",
+    "1.World/Countries/Altara/Cities and Towns/Rekton/Personen/Priester Beron.md",
+    "1.World/Countries/Altara/Cities and Towns/Rekton/Personen/Bealgrim (Karavane).md",
+    "4.DM Screen/Namen.md",
+    "1.World/Countries/Altara/Cities and Towns/Rekton/Personen/Lirian (Karavane).md",
+    "1.World/Countries/Altara/Cities and Towns/Rekton/Personen/Rodrik Garrikson (Karavanenführer).md",
+    "1.World/Countries/Altara/Cities and Towns/Rekton/Personen/Marcus Valen.md",
+    "1.World/Continent Map.md",
+    "1.World/Countries/Altara/Altara.md",
+    "1.World/Countries/Altara/Cities and Towns/Rekton/Places/Chapel of the Traitor(Dur)/Chapel of the Traitor.md",
     "1.World/Countries/Altara/Cities and Towns/Rekton/Places/Zum Amaranth.md",
+    "3.Session Journal/Session 3/Notizen.md",
     "1.World/Countries/Altara/Cities and Towns/Rekton/Places/Chapel of the Traitor(Dur)/Scroll I of K'Rul.md",
     "1.World/Countries/Altara/Cities and Towns/Rekton/Places/Chapel of the Traitor(Dur)/Das Grimoire des Ewigen Hungers.md",
-    "1.World/Countries/Altara/Cities and Towns/Rekton/Places/Chapel of the Traitor(Dur)/Chapel of the Traitor.md",
-    "1.World/Countries/Altara/Cities and Towns/Rekton/Places/Burg Rekton.md",
-    "1.World/Countries/Altara/Cities and Towns/Rekton/Places/Der Prächtige Schuss.md",
-    "1.World/Countries/Altara/Cities and Towns/Rekton/Places/Rekton Marktplatz.md",
-    "1.World/Countries/Altara/Cities and Towns/Rekton/Personen/Thalion Blattspanner.md",
-    "1.World/Countries/Altara/Cities and Towns/Rekton/Personen/Lord Edrin Thorne.md",
-    "1.World/Countries/Altara/Cities and Towns/Rekton/Personen/Finrod (Fischermann).md",
-    "1.World/Countries/Altara/Cities and Towns/Rekton/Personen/Findrod Silberstrom.md",
-    "1.World/Gods, Demigods and Myths/K'Rul.md",
-    "Die Verbrannte Erde.md",
-    "3.Session Journal/Session 2/Planned Plot.md",
+    "3.Session Journal/Session 1/Notes.md",
     "3.Session Journal/Session 1/Planned Plot.md",
-    "1.World/Countries/Altara/Personen/Königin Lysandra Trakand.md",
-    "1.World/Countries/Altara/Altara.md",
+    "1.World/Countries/Altara/Cities and Towns/Rekton/Personen/Brienna Unterstein.md",
+    "1.World/Countries/Altara/Cities and Towns/Rekton/Personen/Elowen Steinschritt.md",
+    "1.World/Countries/Altara/Cities and Towns/Rekton/Personen/Evelyn Seidenstich.md",
+    "1.World/Countries/Altara/Cities and Towns/Rekton/Personen/Thorbald Eisenfaust.md",
+    "1.World/Countries/Altara/Cities and Towns/Rekton/Personen/Thalion Blattspanner.md",
+    "1.World/Countries/Altara/Cities and Towns/Rekton/Personen/Aric Blackwood.md",
+    "1.World/Countries/Altara/Cities and Towns/Rekton/Personen/Finrod (Fischermann).md",
+    "1.World/Countries/Altara/Cities and Towns/Rekton/Personen/Finrod Silberstrom.md",
+    "5.Group/Nari Akida.md",
+    "3.Session Journal/Session 3",
     "z_Attachments/Altaran_Banner.webp",
-    "1.World/Countries/Altara/Personen/Königin Elara Trakand.md",
-    "1.World/Countries/Altara/Personen/König Aldric Trakand.md",
     "1.World/Countries/Malkier",
     "1.World/Countries/Morwenlar",
     "1.World/Countries/Iliandor",
@@ -307,7 +236,6 @@
     "6. Tokens/token_Kruthik.png",
     "6. Tokens",
     "z_Attachments/Chapel_of_the_Traitor.webp",
-    "2.Mechanics/Krankheiten",
     "z_Attachments/Warrior_of_K'Rul.jpg",
     "z_Attachments/Tal_Dorron.jpg",
     "z_Attachments/Rekton.jpg",

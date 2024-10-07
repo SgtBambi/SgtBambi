@@ -2,5 +2,5 @@
 
 Haben einen Deal mit [[Lord Edrin Thorne]] abgeschlossen. 
 	- Buch finden und zu Thorne bringen
-	- 300g + angriff klären
+	- 350g + angriff klären
 

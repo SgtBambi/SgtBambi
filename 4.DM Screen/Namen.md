@@ -3,7 +3,7 @@
 ## Männlich
 - [ ] Thorgrim
 - [ ] Durin
-- [ ] Baelgrim
+- [x] Baelgrim
 - [ ] Dain
 - [ ] Thrain
 
@@ -18,7 +18,7 @@
 
 ## Männlich
 - [ ] Caelric
-- [ ] Lirian
+- [x] Lirian
 - [ ] Thandor
 - [ ] Eledrin
 - [ ] Arvel
@@ -49,7 +49,7 @@
 # Menschen
 
 ## Männlich
-- [ ] Roderic
+- [x] Roderik
 - [ ] Alistair
 - [ ] Garrick
 - [ ] Duncan
