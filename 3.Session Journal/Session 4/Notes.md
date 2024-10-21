@@ -1,8 +1,3 @@
-## Fight Stealth
-Thuum: 23
-Nari: 15
-Nova: 13
-Drasil: 7
-
-- Saved the Villagers
+- Saved the Villagers of [[Salidar]]. Except a 13.
 - 800 gold for saving the villagers from the Priestess
+- 
