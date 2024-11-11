@@ -13,10 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "3.Session Journal/Session 4/Notes.md",
+                "file": "1.World/Countries/Altara/Personen/Xorus.md",
                 "mode": "source",
                 "source": false
-              }
+              },
+              "icon": "lucide-file",
+              "title": "Xorus"
             }
           }
         ]
@@ -39,7 +41,9 @@
               "type": "file-explorer",
               "state": {
                 "sortOrder": "alphabetical"
-              }
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Dateiexplorer"
             }
           },
           {
@@ -54,7 +58,9 @@
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical"
-              }
+              },
+              "icon": "lucide-search",
+              "title": "Suchen"
             }
           },
           {
@@ -62,7 +68,9 @@
             "type": "leaf",
             "state": {
               "type": "bookmarks",
-              "state": {}
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Lesezeichen"
             }
           }
         ]
@@ -85,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "3.Session Journal/Session 4/Notes.md",
+                "file": "1.World/Countries/Altara/Cities and Towns/Salidar/Rowan Shattershield.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -93,7 +101,9 @@
                 "searchQuery": "",
                 "backlinkCollapsed": false,
                 "unlinkedCollapsed": true
-              }
+              },
+              "icon": "links-coming-in",
+              "title": "Rückverweise für Rowan Shattershield"
             }
           },
           {
@@ -102,10 +112,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "3.Session Journal/Session 4/Notes.md",
+                "file": "1.World/Countries/Altara/Cities and Towns/Salidar/Rowan Shattershield.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
-              }
+              },
+              "icon": "links-going-out",
+              "title": "Ausgehende Links von Rowan Shattershield öffnen"
             }
           },
           {
@@ -116,7 +128,9 @@
               "state": {
                 "sortOrder": "frequency",
                 "useHierarchy": true
-              }
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
             }
           },
           {
@@ -125,8 +139,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "3.Session Journal/Session 4/Notes.md"
-              }
+                "file": "1.World/Countries/Altara/Cities and Towns/Salidar/Rowan Shattershield.md"
+              },
+              "icon": "lucide-list",
+              "title": "Gliederung von Rowan Shattershield"
             }
           }
         ]
@@ -150,11 +166,27 @@
   },
   "active": "8dfbfcd47120f4d9",
   "lastOpenFiles": [
-    "4.DM Screen/Name List.md",
+    "1.World/Countries/Altara/Altara.md",
+    "1.World/Countries/Altara/Personen/Xorus.md",
+    "1.World/Countries/Altara/Cities and Towns/Ebou Dar/Tempel der Mystra.md",
+    "3.Session Journal/Session 5/Notes.md",
+    "2.Mechanics/Krankheiten/Sewer Plague.md",
+    "1.World/Countries/Altara/Cities and Towns/Salidar/Letter to Gubra.md",
+    "1.World/Regions/Gjarlsker Hochland",
     "1.World/Countries/Altara/Cities and Towns/Salidar/Rowan Shattershield.md",
     "3.Session Journal/Session 4/Notes.md",
+    "3.Session Journal/Session 5",
+    "1.World/Countries/Altara/Cities and Towns/Salidar/Azollan.md",
+    "1.World/Countries/Altara/Cities and Towns/Rekton/Places/Chapel of the Traitor(Dur)/Scroll I of K'Rul.md",
+    "5.Group/Drasil.md",
+    "5.Group/Thuum Skybreak.md",
+    "5.Group/Nuriel Silberschmied.md",
+    "1.World/Cult of K'Rul/Starbane.md",
+    "1.World/Countries/Altara/Cities and Towns/Salidar/Priesterinn Gubra.md",
+    "1.World/Cult of K'Rul",
     "3.Session Journal/Session 3/Notizen.md",
     "1.World/Countries/Altara/Cities and Towns/Salidar/Salidar.md",
+    "4.DM Screen/Name List.md",
     "z_Attachments/Warrior_of_K'Rul.jpg",
     "1.World/Countries/Altara/Cities and Towns/Salidar",
     "3.Session Journal/Session 2/Notizen.md",

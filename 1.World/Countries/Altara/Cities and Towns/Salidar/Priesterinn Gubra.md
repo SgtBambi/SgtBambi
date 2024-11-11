@@ -1,0 +1,1 @@
+Was given a Ritual by the [[Starbane]].
