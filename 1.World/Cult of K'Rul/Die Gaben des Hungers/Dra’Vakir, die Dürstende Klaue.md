@@ -1,0 +1,1 @@
+(Ein Panzerhandschuh mit scharfen, klauenartigen Fingern, der magische Kraft aus seinen Opfern saugt.)

@@ -1,0 +1,1 @@
+(Ein Helm mit einem klaffenden, zahnbewehrten Riss an der Stirn, der unablässig flüstert.)

@@ -1,0 +1,1 @@
+(Ein verdrehter Stab mit einem unnatürlich gekrümmten Kopf, dessen Spitze in endlose Dunkelheit mündet.)

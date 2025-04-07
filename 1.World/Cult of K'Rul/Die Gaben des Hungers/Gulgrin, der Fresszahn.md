@@ -1,0 +1,1 @@
+(Ein Dolch mit einer Klinge aus reiner Schwärze, die das Leben seiner Opfer aufsaugt.)
