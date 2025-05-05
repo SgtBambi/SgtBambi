@@ -1,16 +1,665 @@
 {
-  "mapMarkers": [],
+  "mapMarkers": [
+    {
+      "id": "Continent Map ",
+      "lastAccessed": 1745778301765,
+      "markers": [
+        {
+          "id": "ID_e9b8fa588aa8",
+          "type": "City",
+          "loc": [
+            -115.169921875,
+            90.875
+          ],
+          "link": "Rekton",
+          "layer": "%5B%5BTal_Dorron.jpg%5D%5D%20",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_28d9783a0bf8",
+          "type": "Capitol",
+          "loc": [
+            -131.107421875,
+            78.625
+          ],
+          "link": "Ebou_Dar",
+          "layer": "%5B%5BTal_Dorron.jpg%5D%5D%20",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_4a187a28bb69",
+          "type": "Point Of Interest",
+          "loc": [
+            -115.544921875,
+            76.9375
+          ],
+          "link": "Shadar Logoth",
+          "layer": "%5B%5BTal_Dorron.jpg%5D%5D%20",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_b8b8dbcb9af9",
+          "type": "Large City",
+          "loc": [
+            -116.8125,
+            66.0625
+          ],
+          "link": "Ionin Spring",
+          "layer": "%5B%5BTal_Dorron.jpg%5D%5D%20",
+          "mutable": true,
+          "command": false,
+          "percent": [
+            0.1290283203125,
+            0.3801871440195281
+          ],
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_8a9aaa08399a",
+          "type": "Gewässer",
+          "loc": [
+            -118.294921875,
+            61.75
+          ],
+          "link": "Ionin",
+          "layer": "%5B%5BTal_Dorron.jpg%5D%5D%20",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_0a4ad9ebb85b",
+          "type": "Gewässer",
+          "loc": [
+            -127.3037109375,
+            78.53125
+          ],
+          "link": "Eldar",
+          "layer": "%5B%5BTal_Dorron.jpg%5D%5D%20",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_4b391b9ac89a",
+          "type": "Gewässer",
+          "loc": [
+            -114.8662109375,
+            92.6875
+          ],
+          "link": "Lake Ultor",
+          "layer": "%5B%5BTal_Dorron.jpg%5D%5D%20",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_2a6b1bb988ea",
+          "type": "Gewässer",
+          "loc": [
+            -86.357421875,
+            73.75
+          ],
+          "link": "Lake Veradann",
+          "layer": "%5B%5BTal_Dorron.jpg%5D%5D%20",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_299a59aafaaa",
+          "type": "Gewässer",
+          "loc": [
+            -100.732421875,
+            81.5
+          ],
+          "link": "Lake Lysindor",
+          "layer": "%5B%5BTal_Dorron.jpg%5D%5D%20",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_7bd9880bba29",
+          "type": "Country",
+          "loc": [
+            -112.607421875,
+            81.1875
+          ],
+          "link": "Altara",
+          "layer": "%5B%5BTal_Dorron.jpg%5D%5D%20",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_c8684aa899bb",
+          "type": "Country",
+          "loc": [
+            -119.21484375,
+            122.875
+          ],
+          "link": "Arafel",
+          "layer": "%5B%5BTal_Dorron.jpg%5D%5D%20",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_5b3ab9c9f92b",
+          "type": "Country",
+          "loc": [
+            -193.4296875,
+            111.25
+          ],
+          "link": "Keladar",
+          "layer": "%5B%5BTal_Dorron.jpg%5D%5D%20",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_e9ebbbfa5858",
+          "type": "Country",
+          "loc": [
+            -167.71484375,
+            198.125
+          ],
+          "link": "Malkier",
+          "layer": "%5B%5BTal_Dorron.jpg%5D%5D%20",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_c96bcbbb3b2b",
+          "type": "Country",
+          "loc": [
+            -252.6796875,
+            309
+          ],
+          "link": "Iliandor",
+          "layer": "%5B%5BTal_Dorron.jpg%5D%5D%20",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_59cb28d9b8a8",
+          "type": "City",
+          "loc": [
+            -88.4375,
+            72.875
+          ],
+          "link": "Jurador",
+          "layer": "%5B%5BTal_Dorron.jpg%5D%5D%20",
+          "mutable": true,
+          "command": false,
+          "percent": [
+            0.142333984375,
+            0.28783563873067536
+          ],
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_0839b83a4a98",
+          "type": "Town",
+          "loc": [
+            -96.90625,
+            72.9375
+          ],
+          "link": "Zwei Mühlen",
+          "layer": "%5B%5BTal_Dorron.jpg%5D%5D%20",
+          "mutable": true,
+          "command": false,
+          "percent": [
+            0.1424560546875,
+            0.3153986981285598
+          ],
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_68580ada0a4a",
+          "type": "City",
+          "loc": [
+            -101.8662109375,
+            84.8125
+          ],
+          "link": "Bandar Eban",
+          "layer": "%5B%5BTal_Dorron.jpg%5D%5D%20",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_798b1bc8698a",
+          "type": "Gewässer",
+          "loc": [
+            -97.6875,
+            76
+          ],
+          "link": "Umber River",
+          "layer": "%5B%5BTal_Dorron.jpg%5D%5D%20",
+          "mutable": true,
+          "command": false,
+          "percent": [
+            0.1484375,
+            0.3179414157851912
+          ],
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_fb7a79f81b29",
+          "type": "Gewässer",
+          "loc": [
+            -99.59375,
+            90.25
+          ],
+          "link": "Umber River",
+          "layer": "%5B%5BTal_Dorron.jpg%5D%5D%20",
+          "mutable": true,
+          "command": false,
+          "percent": [
+            0.17626953125,
+            0.32414564686737185
+          ],
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_eaebf9bba988",
+          "type": "Gewässer",
+          "loc": [
+            -88.8349609375,
+            66.8125
+          ],
+          "link": "Verdanns Narrow",
+          "layer": "%5B%5BTal_Dorron.jpg%5D%5D%20",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_3ae829781be9",
+          "type": "Region",
+          "loc": [
+            -76.75,
+            73.875
+          ],
+          "link": "Frostwood",
+          "layer": "%5B%5BTal_Dorron.jpg%5D%5D%20",
+          "mutable": true,
+          "command": false,
+          "percent": [
+            0.144287109375,
+            0.24979658258746948
+          ],
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_c86978da4acb",
+          "type": "Region",
+          "loc": [
+            -37.8125,
+            94.6875
+          ],
+          "link": "Steamvein Tundra",
+          "layer": "%5B%5BTal_Dorron.jpg%5D%5D%20",
+          "mutable": true,
+          "command": false,
+          "percent": [
+            0.1849365234375,
+            0.12306753458096013
+          ],
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_d92888ab9838",
+          "type": "Capitol",
+          "loc": [
+            -18.5625,
+            103.96875
+          ],
+          "link": "Dornak-Thul",
+          "layer": "%5B%5BTal_Dorron.jpg%5D%5D%20",
+          "mutable": true,
+          "command": false,
+          "percent": [
+            0.20306396484375,
+            0.06041497152156224
+          ],
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_baca8be81998",
+          "type": "Region",
+          "loc": [
+            -52,
+            81
+          ],
+          "link": "Snowdrift Barrens",
+          "layer": "%5B%5BTal_Dorron.jpg%5D%5D%20",
+          "mutable": true,
+          "command": false,
+          "percent": [
+            0.158203125,
+            0.16924328722538648
+          ],
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_689979887a2a",
+          "type": "Mountain Range",
+          "loc": [
+            -31,
+            118.625
+          ],
+          "link": "Eisklamm",
+          "layer": "%5B%5BTal_Dorron.jpg%5D%5D%20",
+          "mutable": true,
+          "command": false,
+          "percent": [
+            0.231689453125,
+            0.10089503661513426
+          ],
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_c8ebca78589a",
+          "type": "Point Of Interest",
+          "loc": [
+            -22.96875,
+            102.75
+          ],
+          "layer": "%5B%5BTal_Dorron.jpg%5D%5D%20",
+          "mutable": true,
+          "command": false,
+          "percent": [
+            0.20068359375,
+            0.07475589910496339
+          ],
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_6859089a1a3a",
+          "type": "Point Of Interest",
+          "loc": [
+            -21.5224609375,
+            104.9375
+          ],
+          "link": "Amber Tempel",
+          "layer": "%5B%5BTal_Dorron.jpg%5D%5D%20",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        }
+      ],
+      "overlays": [],
+      "shapes": [],
+      "files": [
+        "1.World/Continent Map.md"
+      ]
+    }
+  ],
   "defaultMarker": {
     "type": "default",
     "iconName": "map-marker",
-    "color": "#dddddd",
+    "color": "#ff0000",
     "transform": {
       "size": 6,
       "x": 0,
       "y": -2
-    }
+    },
+    "isImage": false
   },
-  "markerIcons": [],
+  "markerIcons": [
+    {
+      "type": "City",
+      "iconName": "city",
+      "color": "#ff0000",
+      "alpha": 1,
+      "layer": true,
+      "transform": {
+        "size": 6,
+        "x": 0,
+        "y": -2
+      },
+      "isImage": false,
+      "tags": [],
+      "minZoom": null,
+      "maxZoom": null
+    },
+    {
+      "type": "Town",
+      "iconName": "home",
+      "color": "#ff0000",
+      "alpha": 1,
+      "layer": true,
+      "transform": {
+        "size": 6,
+        "x": 0,
+        "y": -2
+      },
+      "isImage": false,
+      "tags": [],
+      "minZoom": null,
+      "maxZoom": null
+    },
+    {
+      "type": "Capitol",
+      "iconName": "city",
+      "color": "#fff700",
+      "alpha": 1,
+      "layer": true,
+      "transform": {
+        "size": 6,
+        "x": 0,
+        "y": -2
+      },
+      "isImage": false,
+      "tags": [],
+      "minZoom": null,
+      "maxZoom": null
+    },
+    {
+      "type": "Large City",
+      "iconName": "city",
+      "color": "#0400ff",
+      "alpha": 1,
+      "layer": true,
+      "transform": {
+        "size": 6,
+        "x": 0,
+        "y": -2
+      },
+      "isImage": false,
+      "tags": [],
+      "minZoom": null,
+      "maxZoom": null
+    },
+    {
+      "type": "Point Of Interest",
+      "iconName": "info",
+      "color": "#00ff33",
+      "alpha": 1,
+      "layer": true,
+      "transform": {
+        "size": 6,
+        "x": 0,
+        "y": -2
+      },
+      "isImage": false,
+      "tags": [],
+      "minZoom": null,
+      "maxZoom": null
+    },
+    {
+      "type": "Region",
+      "iconName": "info-circle",
+      "color": "#00ffe1",
+      "alpha": 1,
+      "layer": true,
+      "transform": {
+        "size": 6,
+        "x": 0,
+        "y": -2
+      },
+      "isImage": false,
+      "tags": [],
+      "minZoom": null,
+      "maxZoom": null
+    },
+    {
+      "type": "Gewässer",
+      "iconName": "water",
+      "color": "#0011ff",
+      "alpha": 1,
+      "layer": true,
+      "transform": {
+        "size": 6,
+        "x": 0,
+        "y": -2
+      },
+      "isImage": false,
+      "tags": [],
+      "minZoom": null,
+      "maxZoom": null
+    },
+    {
+      "type": "Country",
+      "iconName": "flag",
+      "color": "#ff00ae",
+      "alpha": 1,
+      "layer": true,
+      "transform": {
+        "size": 6,
+        "x": 0,
+        "y": -2
+      },
+      "isImage": false,
+      "tags": [],
+      "minZoom": null,
+      "maxZoom": null
+    },
+    {
+      "type": "Mountain Range",
+      "iconName": "mountain",
+      "color": "#6e6e6e",
+      "alpha": 1,
+      "layer": true,
+      "transform": {
+        "size": 6,
+        "x": 0,
+        "y": -2
+      },
+      "isImage": false,
+      "tags": [],
+      "minZoom": null,
+      "maxZoom": null
+    }
+  ],
   "color": "#dddddd",
   "lat": 39.983334,
   "long": -82.98333,

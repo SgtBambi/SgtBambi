@@ -1,0 +1,1 @@
+Ein Natürliche gebirge allerdings durch seine Arktische Lage und seine Bevölkerung von Hauptsächlich Yetis und ähnlichen Wesen ein tödlicher Ort.

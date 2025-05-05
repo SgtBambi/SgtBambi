@@ -11,6 +11,7 @@ maxZoom: 5
 defaultZoom: 1
 unit: feet 
 scale: 1 
-[[Note]] darkMode: true 
+[[Note]] darkMode: true marker: City,-116.732421875,64.5,,,,
+
 ```
 
