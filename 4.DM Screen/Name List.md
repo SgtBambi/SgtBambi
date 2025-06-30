@@ -7,7 +7,7 @@
  - [ ] Shaelaris
  - [ ] Maeralyn
  - [ ] Siannodel
- - [ ] Elowen
+ - [x] Elowen _Aerions Gang.
  - [ ] Ithilwen
  - [ ] Serindë
 
@@ -30,7 +30,7 @@
  - [ ] Dagnara
  - [ ] Ragnhild
  - [ ] Sigrid
- - [ ] Kathra
+ - [x] Kathra
  - [ ] Bodil
  - [ ] Freya
  - [ ] Torbera
@@ -41,7 +41,7 @@
  - [ ] Durin
  - [ ] Dain
  - [ ] Baern
- - [ ] Kargan
+ - [x] Kargan- Priester in der Stadt -Moradin Forge god
  - [ ] Orin
  - [ ] Thorin
  - [ ] Brokk
@@ -55,7 +55,7 @@
  - [ ] Seraphina
  - [ ] Lyra
  - [ ] Amara
- - [ ] Fiona
+ - [x] Fiona - Aerions Sister
  - [ ] Gwendolyn
  - [ ] Celeste
  - [ ] Adeline
@@ -63,7 +63,7 @@
 
 ### Male
  - [ ] Aldric
- - [ ] Eamon
+ - [x] Eamon-Aerions Gang
  - [ ] Tristan
  - [ ] Cedric
  - [x] Dorian
@@ -91,7 +91,7 @@
  - [ ] Zethan
  - [ ] Malakar
  - [ ] Kael
- - [ ] Bael
+ - [x] Bael-Aerions Gang
  - [ ] Zephos
  - [ ] Torin
  - [ ] Xander

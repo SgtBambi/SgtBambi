@@ -1,3 +1,4 @@
+
 ### **Overview**
 
 Just outside Skyhold Gate lies **Krag-Vhal**, a mixed-species settlement that acts as a trade hub, supply depot, and staging ground for mercenaries and travelers.
@@ -7,7 +8,6 @@ Just outside Skyhold Gate lies **Krag-Vhal**, a mixed-species settlement that ac
 - **Role:** Acts as a **buffer zone**, ensuring Dornak-Thul’s gates are never **directly** attacked without warning.
     
 - **Architecture:** A mix of **Dwarven stonework** and **makeshift structures** created by non-Dwarven settlers.
-    
 
 ### **Notable Locations**
 

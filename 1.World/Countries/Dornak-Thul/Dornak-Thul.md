@@ -29,12 +29,12 @@ Dornak-Thul is carved into living stone and reinforced with ancient runic magic.
 - **Outer Walls & Gates:** Massive, rune-etched walls protect the city, with multiple fortified gates facing potential avenues of attack.
     
 - **Surface Outpost:** A fortified perimeter at the city gates, manned by mixed-species militia and serving as the first line of defense.
-- 
+
 ## History and Lore
 
 ### Founding Myth
 
-Dornak-Thul was founded in an age when the first Dwarven clans united against the chaos emerging from the depths. Legends recount that the city’s founders were guided by the spirit of the ancient forge god, Morgrath, whose sacred flame is said to burn within the city’s Great Anvil—a massive, enchanted forge at its core.
+Dornak-Thul was founded in an age when the first Dwarven clans united against the chaos emerging from the depths. Legends recount that the city’s founders were guided by the spirit of the ancient forge god, Moradin, whose sacred flame is said to burn within the city’s Great Anvil—a massive, enchanted forge at its core.
 
 ### Key Historical Events
 
@@ -95,7 +95,7 @@ Dornak-Thul was founded in an age when the first Dwarven clans united against th
 
 ### High Council of Stone
 
-- **Thorin Ironmantle:** The venerable, stoic head of the High Council known for his unyielding resolve and strategic mind.
+- **Lorin Ironmantle:** The venerable, stoic head of the High Council known for his unyielding resolve and strategic mind.
     
 - **Brunna Stoneheart:** Renowned master artisan and warrior, responsible for the crafting of the city’s sacred runes and weapons.
     
@@ -109,15 +109,14 @@ Dornak-Thul was founded in an age when the first Dwarven clans united against th
 
 ### Religious Leadership
 
-- **High Priest [[Balgrim Emberhand]]:** Keeper of the sacred flame of Morgrath, who conducts rituals that bless the city’s forges and warriors.
+- **High Priest [[Balgrim Emberhand]]:** Keeper of the sacred flame of Moradin, who conducts rituals that bless the city’s forges and warriors.
     
-- **Seeress Marla of the Deep Vein:** A mystic whose visions are often heeded by the High Council, guiding the city through omens and portents.
 
 ## Cultural and Religious Rituals
 
 ### Rite of the Everflame
 
-- **Description:** A sacred ritual where the citizens renew their pact with Morgrath, invoking the eternal flame as a symbol of strength and unity.
+- **Description:** A sacred ritual where the citizens renew their pact with Moradin, invoking the eternal flame as a symbol of strength and unity.
     
 - **Ceremony Details:** Involves a grand procession to the Great Anvil, the lighting of ceremonial braziers, and the chanting of ancient hymns.
     
