@@ -13,15 +13,58 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "4.DM Screen/Name List.md",
+                "file": "1.World/Countries/Dornak-Thul/Nova Trials/Novas Trials.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Name List"
+              "title": "Novas Trials"
+            }
+          },
+          {
+            "id": "5aaa8dc86ea1f9a2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "1.World/Countries/Dornak-Thul/Nari Trials/Naris Trails.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Naris Trails"
+            }
+          },
+          {
+            "id": "864a768d11788662",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "1.World/Feywild/Whitebridge/Whitebridge_Manor/Manor.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Manor"
+            }
+          },
+          {
+            "id": "53c904da86c9bcd9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "1.World/Feywild/Whitebridge/Whitebridge_Manor/Leutnants/Syrith.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Syrith"
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -155,6 +198,7 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "bases:Create new base": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
@@ -165,50 +209,52 @@
       "obsidian-leaflet-plugin:Open Leaflet Map": false
     }
   },
-  "active": "7bc11b7631b5aa62",
+  "active": "864a768d11788662",
   "lastOpenFiles": [
-    "4.DM Screen/Namen.md",
-    "1.World/Countries/Dornak-Thul/Krag-Vhal.md",
-    "1.World/Countries/Arafel/Arafel.md",
-    "4.DM Screen/Name List.md",
-    "1.World/Countries/Dornak-Thul/Skyhold Gate.md",
+    "1.World/Feywild/Whitebridge/Whitebridge_Manor/Laurethil.md",
+    "1.World/Feywild/Whitebridge/Whitebridge_Manor/Manor.md",
+    "1.World/Feywild/Whitebridge/Large Study/Study.md",
+    "1.World/Feywild/Whitebridge/Large Study/Staff of Winter.md",
+    "1.World/Feywild/Whitebridge/Large Study",
+    "1.World/Feywild/Whitebridge/Whitebridge_Manor/Leutnants/Veylan.md",
+    "1.World/Feywild/Whitebridge/Whitebridge_Manor/First_Floor.webp",
+    "1.World/Feywild/Whitebridge/Whitebridge_Manor/Leutnants/Korvin.md",
+    "1.World/Feywild/Whitebridge/Whitebridge_Manor/Leutnants/Syrith.md",
+    "1.World/Feywild/Whitebridge/Whitebridge_Manor/Leutnants/Meaven.md",
+    "1.World/Feywild/Whitebridge/Whitebridge_Manor/Leutnants",
+    "1.World/Feywild/Whitebridge/Whitebridge_Manor/Mayor Thalion Esharion.md",
+    "1.World/Feywild/Whitebridge/Whitebridge_Manor/Mayors Wife Salia Esharion.md",
+    "1.World/Feywild/Whitebridge/Whitebridge_Manor/Daughter Laryssa Esharion.md",
+    "1.World/Feywild/Whitebridge/Whitebridge_Manor/Secret Basement.png",
+    "1.World/Feywild/Whitebridge/Whitebridge_Manor/Son - Kealen Easharion.md",
+    "1.World/Countries/Dornak-Thul/Nova Trials/Novas Trials.md",
+    "1.World/Countries/Dornak-Thul/Nova Trials/Lilac Crystal Scorpion.md",
+    "1.World/Countries/Dornak-Thul/Nari Trials/Naris Trails.md",
+    "1.World/Countries/Dornak-Thul/Nari Trials/The Second Soul.md",
+    "1.World/Countries/Dornak-Thul/Nova Trials.zip",
     "1.World/Countries/Dornak-Thul/Dornak-Thul.md",
+    "1.World/Countries/Dornak-Thul/Nari Trials",
+    "1.World/Countries/Dornak-Thul/Skyhold Gate.md",
     "1.World/Countries/Dornak-Thul/Balgrim Emberhand.md",
-    "1.World/Regions/Eisklamm/Nuritaris Tempel.md",
-    "1.World/Countries/Dornak-Thul/The Underground Citadel (The True City of Dornak-Thul).md",
-    "1.World/Regions/Steamvein Tundra/Netherese Ruins.md",
-    "1.World/Regions/Snowdrift Barrens/Goblin Army.md",
-    "1.World/Regions/Steamvein Tundra/Steamvein Tundra.md",
-    "1.World/Regions/Steamvein Tundra/Mysterious Hatch.md",
+    "1.World/Countries/Keladar/Keladar.md",
+    "1.World/Countries/Morwenlar/Morwenlar.md",
+    "1.World/Countries/Malkier/Malkier.md",
+    "1.World/Countries/Dornak-Thul/Nova Trials Fight Sheets/Circle of Stars Druid.md",
+    "1.World/Countries/Dornak-Thul/Nova Trials",
+    "1.World/Countries/Dornak-Thul/Rite of the Everflame.md",
+    "1.World/Countries/Dornak-Thul/Krag-Vhal.md",
+    "1.World/Gods, Demigods and Myths/K'Rul.md",
     "1.World/Regions/Steamvein Tundra",
-    "1.World/Regions/Eisklamm/Eisklamm.md",
     "z_Attachments/Curse of Strahd Reloaded_ Guide to the Amber Temple 1.docx",
     "z_Attachments/Curse of Strahd Reloaded_ Guide to the Amber Temple.docx",
-    "1.World/Gods, Demigods and Myths/K'Rul.md",
     "1.World/Regions/Snowdrift Barrens",
     "1.World/Regions/Eisklamm",
-    "1.World/Gods, Demigods and Myths/Nuritari.md",
-    "1.World/Continent Map.md",
-    "Amber Tempel.md",
-    "1.World/Regions/Eisklamm/Balinok Pass.md",
-    "1.World/Countries/Countries.md",
-    "1.World/Regions/Snowdrift Barrens/Snowdrift Barrens.md",
-    "1.World/Regions/Icewind.md",
-    "1.World/Regions/Frostwood.md",
-    "1.World/Countries/Altara/Lakes/Verdanns Narrow.md",
-    "1.World/Countries/Altara/Cities and Towns/Zwei Mühlen.md",
-    "1.World/Countries/Malkier/Malkier.md",
     "z_Attachments/Tal_Dorron.jpg",
     "z_Attachments/Ebou_Dar.jpg",
     "z_Attachments/Jurador.jpg",
-    "1.World/Countries/Altara/Cities and Towns/Jurador",
     "z_Attachments/Jurador.webp",
     "z_Attachments/Winter Feryndon small.jpg",
     "z_Attachments/Rekton.jpg",
-    "1.World/Countries/Dornak-Thul",
-    "3.Session Journal/Session 7",
-    "3.Session Journal/Session 6/Untitled",
-    "1.World/Cult of K'Rul/Die Gaben des Hungers",
     "z_Attachments/Warrior_of_K'Rul.jpg"
   ]
 }

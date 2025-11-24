@@ -1,1 +1,0 @@
-(Ein pechschwarzer Edelstein, der in der Brust des Trägers pulsiert und alles um ihn herum schwächt.)
