@@ -1,0 +1,1 @@
+Pub outside the walls of [[Dornak-Thul]]. Treffpunkt der [[Dämmerklauen]] [[Nachtfalken]]

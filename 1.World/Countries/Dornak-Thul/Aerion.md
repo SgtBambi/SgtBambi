@@ -1,0 +1,1 @@
+Half elf Ranger der die Gruppe nach [[Dornak-Thul]] gebracht hat.

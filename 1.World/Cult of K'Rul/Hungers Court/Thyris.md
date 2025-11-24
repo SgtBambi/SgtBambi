@@ -1,0 +1,4 @@
+**Seeks:** _Yxothis, Mantle of the Forgotten_  
+**Role:** Court manipulator and memory-hunter; erases witnesses and repaints histories.  
+**Appearance:** Thin, androgynous, with a cascade of layered shawls that look at first like fabrics and then like faces. Thyris’s fingers are stained with ink and dust; they tremble with habitual cataloging. Strips of parchment flow from a satchel at their hip like the tongues of a serpent; each strip bears a line of text in a script that blurs if you try to read it twice. Their eyes are surrounded by soft, pale rings that catch and hold light like film. When they move through a room, people find themselves blinking, forgetting the last sentence they said. A tiny silver brooch shaped like an empty hood pins their cloak — a symbol of all the names they will one day pull into silence.  
+**Signature:** They bargain in erasures: a forgotten name for a loyalty token, a blank paper for a life.

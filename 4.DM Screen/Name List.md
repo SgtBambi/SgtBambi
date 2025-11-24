@@ -44,7 +44,7 @@
  - [x] Kargan- Priester in der Stadt -Moradin Forge god
  - [ ] Orin
  - [ ] Thorin
- - [ ] Brokk
+ - [x] Brokk - Clerk im Bürgerbüro
  - [ ] Baldrik
  - [ ] Grundi
 

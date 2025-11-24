@@ -1,1 +1,1 @@
-Was given a Ritual by the [[Starbane]].
+Was given a Ritual by the [[Mealis]].

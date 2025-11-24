@@ -36,7 +36,7 @@
 - [ ] Aelar
 - [x] Finrod - Fischermann in [[Rekton]]
 - [ ] Galadin
-- [ ] Thalion
+- [x] Thalion _ Ezoras gefährte_
 - [ ] Elendir
 
 ## Weiblich
@@ -72,7 +72,7 @@
 - [ ] Nackle
 
 ## Weiblich
-- [ ] Tilly
+- [x] Tilly
 - [ ] Miri
 - [ ] Pippa
 - [ ] Nissa

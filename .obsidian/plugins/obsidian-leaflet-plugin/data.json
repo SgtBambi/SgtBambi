@@ -2,7 +2,7 @@
   "mapMarkers": [
     {
       "id": "Continent Map ",
-      "lastAccessed": 1745778301765,
+      "lastAccessed": 1761589225844,
       "markers": [
         {
           "id": "ID_e9b8fa588aa8",
@@ -59,16 +59,16 @@
           "id": "ID_b8b8dbcb9af9",
           "type": "Large City",
           "loc": [
-            -116.8125,
-            66.0625
+            -117.1624984741211,
+            65.51249694824219
           ],
           "link": "Ionin Spring",
           "layer": "%5B%5BTal_Dorron.jpg%5D%5D%20",
           "mutable": true,
           "command": false,
           "percent": [
-            0.1290283203125,
-            0.3801871440195281
+            0.12795409560203552,
+            0.3813262765634535
           ],
           "description": null,
           "minZoom": null,
@@ -486,6 +486,22 @@
             104.9375
           ],
           "link": "Amber Tempel",
+          "layer": "%5B%5BTal_Dorron.jpg%5D%5D%20",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_ea885a396ad9",
+          "type": "Town",
+          "loc": [
+            -104.64531326293945,
+            64.73749923706055
+          ],
           "layer": "%5B%5BTal_Dorron.jpg%5D%5D%20",
           "mutable": true,
           "command": false,

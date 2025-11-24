@@ -1,0 +1,4 @@
+**Seeks:** _Xal’Tuun, the Maw of Nothing_  
+**Role:** Field necromancer and siege-architect; converts sieges into void-furnaces.  
+**Appearance:** Ossran’s body presents as loose burlap stuffed with soot; his movements are slow and pendulous as if strings tug at his joints. Where his face should be, a dark lens sits in a shallow hollow, reflecting distant lights as pinpricks. His cloak is stitched from tarpaulin and burial shroud, and its hem always seems to trail a short cloud of ash that kills the light it passes over. Ropes run across his chest from which hang tiny bell-jars containing nothing — little empty rooms that make a sound like silence when moved. His soldiers’ armor bears his mark: a ring with a hole in the center, painted black.  
+**Signature:** He maps battlefields as one maps a midden — where to leave gaps so the world slips quietly through.

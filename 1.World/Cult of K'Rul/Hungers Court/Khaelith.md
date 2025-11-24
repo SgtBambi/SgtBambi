@@ -1,0 +1,3 @@
+**Seeks:** _Dra’Vakir, the Thirsting Claw_
+A broad-shouldered man whose armor seems grown rather than forged — plates layered like the gullet of a beast, iridescent and wet-looking in dim light. Instead of a throat, a band of blackened, tooth-like spines curls inward beneath his jaw; when he speaks a slow, hungry rasp issues from that maw. His helm is a half-mask of interlocking ceramic claws; his right gauntlet is an articulated talon that clicks and flexes as if tasting the air. Khaelith’s banners are stitched with tiny, dangling bits of bone and scavenged teeth that clink like a dozen small alarms.  
+**Signature:** He never gives speeches—only lists: quotas, trophies, and the names of those who will be eaten next.

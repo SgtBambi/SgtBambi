@@ -1,4 +1,5 @@
 
+
 ### **Overview**
 
 Just outside Skyhold Gate lies **Krag-Vhal**, a mixed-species settlement that acts as a trade hub, supply depot, and staging ground for mercenaries and travelers.

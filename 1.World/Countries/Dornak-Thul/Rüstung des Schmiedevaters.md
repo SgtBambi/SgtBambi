@@ -1,0 +1,1 @@
+Von einem ancient red dragon gestohlen und Kronjuwel seines Horts im Hohen Norden über [[Dornak-Thul]].
